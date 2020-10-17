@@ -1,0 +1,2489 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -21.0556799272108,
+          65.3136845869408
+        ]
+      },
+      "properties": {
+        "id": 1,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Mýrar",
+        "farm_number": "HV-014",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "rýrist lítillega",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases slightly",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir stundum aurskriða af bæjarlæknum, og þó ekki merkilega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 2,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8678171581591,
+          65.2947348019015
+        ]
+      },
+      "properties": {
+        "id": 2,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Staðarbakki",
+        "farm_number": "HV-026",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjarnar eru og merkilega fordjarfaðar af vatni, sem fellur af hálsinum, en jetur sig niður í engið til óbótaskemda, ber og aurskriður með leir og mölgrjóti."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 3,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8664188916767,
+          65.2958467715429
+        ]
+      },
+      "properties": {
+        "id": 3,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Staðarbakki",
+        "farm_number": "HV-026",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjarnar eru og merkilega fordjarfaðar af vatni, sem fellur af hálsinum, en jetur sig niður í engið til óbótaskemda, ber og aurskriður með leir og mölgrjóti."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 4,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9128163971936,
+          65.2844583352233
+        ]
+      },
+      "properties": {
+        "id": 4,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Staðarbakki",
+        "farm_number": "HV-026",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjarnar eru og merkilega fordjarfaðar af vatni, sem fellur af hálsinum, en jetur sig niður í engið til óbótaskemda, ber og aurskriður með leir og mölgrjóti."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 5,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8935547275464,
+          65.2336280706287
+        ]
+      },
+      "properties": {
+        "id": 5,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Hlíð (Huppahlíð)",
+        "farm_number": "HV-031",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir vatnságángur og skriða af ánni, og þetta hefur engið mestan part eyðilagt."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 6,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8935547275464,
+          65.2336280706287
+        ]
+      },
+      "properties": {
+        "id": 6,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Hlíð (Huppahlíð)",
+        "farm_number": "HV-031",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir vatnságángur og skriða af ánni, og þetta hefur engið mestan part eyðilagt."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 7,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.892629380391,
+          65.1762008348706
+        ]
+      },
+      "properties": {
+        "id": 7,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Kollufoss",
+        "farm_number": "HV-032",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjum meinar lækjarskriða."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 8,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.90050429019,
+          65.1408864646932
+        ]
+      },
+      "properties": {
+        "id": 8,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Húkur",
+        "farm_number": "HV-033",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engið, sem best var með jörðunni, er merkilega fordjarfað af lækjarskriðu af hálsinum og so af Vesturá."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 9,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8239908651076,
+          65.2332361801367
+        ]
+      },
+      "properties": {
+        "id": 9,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Litla Túnga",
+        "farm_number": "HV-037",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjum, sem áður hafa á eyrlendinu verið, spillir grjótskriða af ánum Vesturá og Miðfjarðará á tvær síður, so að nú verða menn engjatak að hafa upp í grashögum á hálsunum, þar sem mýrlendi gjörir stóra bág engjataksins."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 10,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7576203289943,
+          65.1450302410324
+        ]
+      },
+      "properties": {
+        "id": 10,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Neðrinúpur",
+        "farm_number": "HV-041",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar öngvar, nema í þerringraslágum. Engjaflöt, sem þar fyrir neðan var, hefur skriða fordjarfað fyrir nokkrum árum og nú á ný í vetur."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 11,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.742106236198,
+          65.1479708640608
+        ]
+      },
+      "properties": {
+        "id": 11,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Neðrinúpur",
+        "farm_number": "HV-041",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar öngvar, nema í þerringraslágum. Engjaflöt, sem þar fyrir neðan var, hefur skriða fordjarfað fyrir nokkrum árum og nú á ný í vetur."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 12,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7435640951923,
+          65.0840223745229
+        ]
+      },
+      "properties": {
+        "id": 12,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Efrinúpur",
+        "farm_number": "HV-042",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið fordjarfa lækjaskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 13,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.740259157122,
+          65.1007144267085
+        ]
+      },
+      "properties": {
+        "id": 13,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Efrinúpur",
+        "farm_number": "HV-042",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið fordjarfa lækjaskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 14,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7485099507231,
+          65.1330943952196
+        ]
+      },
+      "properties": {
+        "id": 14,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Efrinúpur",
+        "farm_number": "HV-042",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið fordjarfa lækjaskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 15,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7469143203955,
+          65.1311358000388
+        ]
+      },
+      "properties": {
+        "id": 15,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Efrinúpur",
+        "farm_number": "HV-042",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið fordjarfa lækjaskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 16,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6461886065899,
+          65.1127943001318
+        ]
+      },
+      "properties": {
+        "id": 16,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 5503,
+        "farm_name": "Hreiðarstaðir",
+        "farm_number": "HV-047",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högum og slægjum spilla skriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 17,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6587267981627,
+          65.1255179844077
+        ]
+      },
+      "properties": {
+        "id": 17,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Bjargarstaðir",
+        "farm_number": "HV-048",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Tún spillist af skriðum merkilega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 18,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6525305014765,
+          65.1264840115581
+        ]
+      },
+      "properties": {
+        "id": 18,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": 2,
+        "farm_name": "Aðalból",
+        "farm_number": "HV-049",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnum spillir skriða til stórmeina, sem lækir gjöra ofan af hálsinum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 19,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7719997540313,
+          65.2023357290607
+        ]
+      },
+      "properties": {
+        "id": 19,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Barkarstaðir",
+        "farm_number": "HV-051",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "skógur",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "woodland",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Kolskóg hefur jörðin góðan átt, en hann er nú eyddur, mest fyrir skriðum, so valla fæst nú slóðahrís eftir."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 20,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8040427844406,
+          65.2219846031955
+        ]
+      },
+      "properties": {
+        "id": 20,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Litli Bakki",
+        "farm_number": "HV-052",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir lækur með jarðföllum og leiráburði."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 21,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8040427844406,
+          65.2219846031955
+        ]
+      },
+      "properties": {
+        "id": 21,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Litli Bakki",
+        "farm_number": "HV-052",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjunum spilla skriður af hálsinum að ofan en Miðfjarðará að neðan."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 22,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8126473528858,
+          65.2447205641423
+        ]
+      },
+      "properties": {
+        "id": 22,
+        "shire_name": "Torfustaðahreppur",
+        "shire_number": null,
+        "farm_name": "Bjargshóll",
+        "farm_number": "HV-054",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar, sem áður voru, hefur grjótlækjarskriða fordjarfað og næsta því eyðilagt."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 23,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7299574178711,
+          65.3792870671294
+        ]
+      },
+      "properties": {
+        "id": 23,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Þóreyjarnúpur",
+        "farm_number": "HV-065",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "rýrist lítillega",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases slightly",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjum í sama máta grandar þessi lækur með grjóti og skriðum, þó því einu, sem nær hönum liggur."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 24,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7299574178711,
+          65.3792870671294
+        ]
+      },
+      "properties": {
+        "id": 24,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Þóreyjarnúpur",
+        "farm_number": "HV-065",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið fordjarfar bæjarlækurinn til merkilegs skaða, með undirgreftri og jarðföllum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 25,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8070142452228,
+          65.3488748022381
+        ]
+      },
+      "properties": {
+        "id": 25,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Gauksmýri",
+        "farm_number": "HV-068",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir skriða og so engjum í sama máta, þó sökkur sá leir öðru hverju so þá verður aftur að gagni, en þó ekki óhætt fyrir nýrri skaðavon."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 26,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8070142452228,
+          65.3488748022381
+        ]
+      },
+      "properties": {
+        "id": 26,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Gauksmýri",
+        "farm_number": "HV-068",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir skriða og so engjum í sama máta, þó sökkur sá leir öðru hverju so þá verður aftur að gagni, en þó ekki óhætt fyrir nýrri skaðavon."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 27,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8593393312028,
+          65.3600394846374
+        ]
+      },
+      "properties": {
+        "id": 27,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Grafarkot",
+        "farm_number": "HV-070",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "2. nýlega",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "recently",
+        "environmental_threat_notes": "Leigukúgildi eru nú iiii í næstu þrjú ár; áður voru vi og er tveimur fækkað eftir bón ábúanda fyrir spjöll þaug, er skriða gjörði á túni og engjum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 28,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8593393312028,
+          65.3600394846374
+        ]
+      },
+      "properties": {
+        "id": 28,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Grafarkot",
+        "farm_number": "HV-070",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "2. nýlega",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "recently",
+        "environmental_threat_notes": "Leigukúgildi eru nú iiii í næstu þrjú ár; áður voru vi og er tveimur fækkað eftir bón ábúanda fyrir spjöll þaug, er skriða gjörði á túni og engjum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 29,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.923598916028,
+          65.4016399526493
+        ]
+      },
+      "properties": {
+        "id": 29,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Syðstihvammur",
+        "farm_number": "HV-075",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið fordjarfar aurskriða úr Kirkjuhvammsá, og so engi það, sem liggur næst fyrir neðan túnið."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 30,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9234546721079,
+          65.4034955293048
+        ]
+      },
+      "properties": {
+        "id": 30,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Kirkjuhvammur",
+        "farm_number": "HV-076",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir skriða af ánni nokkru meiri en áður getur um Syðsta Hvamm."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 31,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9234546721079,
+          65.4034955293048
+        ]
+      },
+      "properties": {
+        "id": 31,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Kirkjuhvammur",
+        "farm_number": "HV-076",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Enginu spilla sömu skriður, meir hjer en í Syðsta Hvammi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 32,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9312223238837,
+          65.4070895458402
+        ]
+      },
+      "properties": {
+        "id": 32,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Helguhvammur",
+        "farm_number": "HV-078",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engi það, sem Jón eldri brúkar, er það eina, sem á votlendum mýrum hent verður. það sem Jón ýngri brúkar liggur hærra til fjalllendiss, en er með sama móti; þó er það nýlega spilt af stóru jarðfalli. Spillist og af því, að það hefur í þessu umliðnu hallæri lángt fram á sumur undir snjóum legið."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 33,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9256552124603,
+          65.4159891309842
+        ]
+      },
+      "properties": {
+        "id": 33,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Helguhvammur",
+        "farm_number": "HV-078",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engi það, sem Jón eldri brúkar, er það eina, sem á votlendum mýrum hent verður. það sem Jón ýngri brúkar liggur hærra til fjalllendiss, en er með sama móti; þó er það nýlega spilt af stóru jarðfalli. Spillist og af því, að það hefur í þessu umliðnu hallæri lángt fram á sumur undir snjóum legið."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 34,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9710360967569,
+          65.5160689867057
+        ]
+      },
+      "properties": {
+        "id": 34,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Almenníngur",
+        "farm_number": "HV-084",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar má valla telja, og er það eitt sem í högum er barið í stórgrýtissskriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 35,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9775805432481,
+          65.5085929262251
+        ]
+      },
+      "properties": {
+        "id": 35,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Almenníngur",
+        "farm_number": "HV-084",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar má valla telja, og er það eitt sem í högum er barið í stórgrýtissskriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 36,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.9686618995527,
+          65.5232902044075
+        ]
+      },
+      "properties": {
+        "id": 36,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Almenníngur",
+        "farm_number": "HV-084",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar má valla telja, og er það eitt sem í högum er barið í stórgrýtissskriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 37,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8809464112388,
+          65.6074354428043
+        ]
+      },
+      "properties": {
+        "id": 37,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Illugastaðir",
+        "farm_number": "HV-091",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Fjallskriður spilla högum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 38,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8232703126311,
+          65.6237670238032
+        ]
+      },
+      "properties": {
+        "id": 38,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": 3,
+        "farm_name": "Geitafell",
+        "farm_number": "HV-092",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum spilla skriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 39,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.8065870706455,
+          65.602014019692
+        ]
+      },
+      "properties": {
+        "id": 39,
+        "shire_name": "Kirkjuhvammshreppur",
+        "shire_number": null,
+        "farm_name": "Ásbjarnarstaðir",
+        "farm_number": "HV-094",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum er skaðavon af fjallskriðum árlega, og spillist oftast nokkuð, en grær þó víða aftur, þar sem á votlendi eður mýrar fellur."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 40,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7576630802302,
+          65.6002997094485
+        ]
+      },
+      "properties": {
+        "id": 40,
+        "shire_name": "Þverárhreppur",
+        "shire_number": null,
+        "farm_name": "Katadalur",
+        "farm_number": "HV-097",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Skriðuvon er og grandar hún högum, en híngað til hvorki túni nje engjum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 41,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6911847631001,
+          65.6743359116884
+        ]
+      },
+      "properties": {
+        "id": 41,
+        "shire_name": "Þverárhreppur",
+        "shire_number": null,
+        "farm_name": "Vík (Hindisvík)",
+        "farm_number": "HV-101",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Skriður spilla túninu sem kirkjunnar parti tilheyrir. Hætt er klausturpartinum fyrir sama skaða."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 42,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6550658455759,
+          65.6703998513303
+        ]
+      },
+      "properties": {
+        "id": 42,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Krossanes",
+        "farm_number": "HV-102",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Lækir úr fjalli grafa land og bera smáskriður, verða skriðurnar bættar en vatnsgröfturinn ekki."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 43,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.688585543503,
+          65.5023726478668
+        ]
+      },
+      "properties": {
+        "id": 43,
+        "shire_name": "Þverárhreppur",
+        "shire_number": null,
+        "farm_name": "Efri Þverá",
+        "farm_number": "HV-116",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu á kóngseigninni spillir áin, sem hjá bænum fellur. Túninu á bóndaeigninni spillir vatnslind og gjörir mýrlendi; það ætla menn bætast mætti ef lindin væri djúpt fram grafin."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 44,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.688585543503,
+          65.5023726478668
+        ]
+      },
+      "properties": {
+        "id": 44,
+        "shire_name": "Þverárhreppur",
+        "shire_number": null,
+        "farm_name": "Efri Þverá",
+        "farm_number": "HV-116",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið er mikinn part af gamalli órækt fordjarfað, sumt í hrjósturmó, sumt í mýri komið. Líka spillir því lækjarskriða."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 45,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.688585543503,
+          65.5023726478668
+        ]
+      },
+      "properties": {
+        "id": 45,
+        "shire_name": "Þverárhreppur",
+        "shire_number": null,
+        "farm_name": "Efri Þverá",
+        "farm_number": "HV-116",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjum þeim er kóngsins parti fylgja spillir áin með grjótskriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 46,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7222295129066,
+          65.4410460460899
+        ]
+      },
+      "properties": {
+        "id": 46,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Breiðabólstaður",
+        "farm_number": "HV-122",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tollur",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "toll",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Bæjarlækurinn spillir túninu og enginu með skriðum og hefur staðarhaldarinn oft miklu erfiði til kostað að afvenda þessu meini."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 47,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7141468608188,
+          65.4487765626467
+        ]
+      },
+      "properties": {
+        "id": 47,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Breiðabólstaður",
+        "farm_number": "HV-122",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tollur",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "toll",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Bæjarlækurinn spillir túninu og enginu með skriðum og hefur staðarhaldarinn oft miklu erfiði til kostað að afvenda þessu meini."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 48,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7233460875086,
+          65.4385032610122
+        ]
+      },
+      "properties": {
+        "id": 48,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Grund",
+        "farm_number": "HV-125",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Sumarhagar eru mjög spiltir af skriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 49,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7152832481354,
+          65.4395812969039
+        ]
+      },
+      "properties": {
+        "id": 49,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Grund",
+        "farm_number": "HV-125",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Sumarhagar eru mjög spiltir af skriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 50,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7290755487691,
+          65.420714398434
+        ]
+      },
+      "properties": {
+        "id": 50,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Böðvarshólar",
+        "farm_number": "HV-126",
+        "is_lookup_environmental_agents": "snjóflóð",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "avalanche",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Ekki er óhætt fyrir snjóflóðum, og hefur það til skaða komið bæði á túni og högum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 51,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7290755487691,
+          65.420714398434
+        ]
+      },
+      "properties": {
+        "id": 51,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Böðvarshólar",
+        "farm_number": "HV-126",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Ekki er óhætt fyrir snjóflóðum, og hefur það til skaða komið bæði á túni og högum. So er högum og túni hætt fyrir skriðum og granda þær högunum oftlega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 52,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7290755487691,
+          65.420714398434
+        ]
+      },
+      "properties": {
+        "id": 52,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Böðvarshólar",
+        "farm_number": "HV-126",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Ekki er óhætt fyrir snjóflóðum, og hefur það til skaða komið bæði á túni og högum. So er högum og túni hætt fyrir skriðum og granda þær högunum oftlega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 53,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7290755487691,
+          65.420714398434
+        ]
+      },
+      "properties": {
+        "id": 53,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Böðvarshólar",
+        "farm_number": "HV-126",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Ekki er óhætt fyrir snjóflóðum, og hefur það til skaða komið bæði á túni og högum. So er högum og túni hætt fyrir skriðum og granda þær högunum oftlega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 54,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.7064656573164,
+          65.4071965884095
+        ]
+      },
+      "properties": {
+        "id": 54,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Hörghóll",
+        "farm_number": "HV-127",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjatak er í manna minni brúkað frá þessari jörðu, og henni eignað, fyrir norðan mómela í Böðvarshólalandi, alllítið. Þar fjellu mest 15 hestar, það menn tib muna. Nú er sá engiteigur af skriðum fordjarfaður, og so grjóti af Reyðarlæk, so að nú sem stendur er þar af gagnsvon engin og óvíst hvort upp aftur vaxi"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 55,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6754190145781,
+          65.3960427079684
+        ]
+      },
+      "properties": {
+        "id": 55,
+        "shire_name": "Þverárhreppur",
+        "shire_number": 4,
+        "farm_name": "Hurðarbak",
+        "farm_number": "HV-128",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjar eru slitróttar nema teigurinn einn, og spillir hönum skriða af Reyðarlæk."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 56,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5507079797646,
+          65.3305790489931
+        ]
+      },
+      "properties": {
+        "id": 56,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": 5,
+        "farm_name": "Kolugil",
+        "farm_number": "HV-157",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Engjarnar eru stórlega spiltar af skriðu."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 57,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5507079797646,
+          65.3305790489931
+        ]
+      },
+      "properties": {
+        "id": 57,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": 5,
+        "farm_name": "Kolugil",
+        "farm_number": "HV-157",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu er hætt fyrir skriðum, og hefur það af því skaða liðið, sem nú er nær því bættur."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 58,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6062610862139,
+          65.3811221837725
+        ]
+      },
+      "properties": {
+        "id": 58,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": 5,
+        "farm_name": "Stóra Ásgeirsá",
+        "farm_number": "HV-160",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum spilla fjallskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 59,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6084132638312,
+          65.3836100101613
+        ]
+      },
+      "properties": {
+        "id": 59,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": 5,
+        "farm_name": "Stóra Ásgeirsá",
+        "farm_number": "HV-160",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum spilla fjallskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 60,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.483893850449,
+          65.298297952833
+        ]
+      },
+      "properties": {
+        "id": 60,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": 5,
+        "farm_name": "Stóra Ásgeirsá",
+        "farm_number": "HV-160",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum spilla fjallskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 61,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.6105274000625,
+          65.3799166064403
+        ]
+      },
+      "properties": {
+        "id": 61,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": 5,
+        "farm_name": "Stóra Ásgeirsá",
+        "farm_number": "HV-160",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum spilla fjallskriður."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 62,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.5369482900957,
+          65.4300380121192
+        ]
+      },
+      "properties": {
+        "id": 62,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": null,
+        "farm_name": "Melrakkadalur",
+        "farm_number": "HV-165",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Högunum er meinhætt fyrir fjallskriðum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 63,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.4769545485996,
+          65.475440962463
+        ]
+      },
+      "properties": {
+        "id": 63,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": null,
+        "farm_name": "Miðhóp",
+        "farm_number": "HV-167",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spilla lækjarskriður stórlega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 64,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.4710144735375,
+          65.4790487553228
+        ]
+      },
+      "properties": {
+        "id": 64,
+        "shire_name": "Þorkelshólshreppur",
+        "shire_number": null,
+        "farm_name": "Miðhóp",
+        "farm_number": "HV-167",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spilla lækjarskriður stórlega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 65,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.402854244966,
+          65.5527132866785
+        ]
+      },
+      "properties": {
+        "id": 65,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Þingeyrar",
+        "farm_number": "HV-169",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "notkun eyðijarðar",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "4. fyrir manna minni",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "use of unoccupied farm",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "before living memory",
+        "environmental_threat_notes": "Skijdastader hefur hjer heitið jörð til forna, sem lá undir Þingeyraklaustur. Hana tók fjallskriða fyrir meir en hálft annað hundrað árum. Leifar af túninu sjást enn nú við sunuanverða skriðuna. Engin önnur bygðarmerki eru eftir. Segja menn so, að tjörn sú, sem nú er kölluð Skriðutjörn, hafi þá orðið, en áður verið uppá fjallinu. Það segir og almennilegt mál, að landið, sem nú er kallað Hnausar, bafi af þeirri jarðarinnar umturnan orðið, og staðar numið á Sveinsstaða og Steinness landi. En áður hafi Vatnsdalsá runrdð þar sem nú er Skriðutjörn og so norður fyrir austan Hnausana, þar sem enn í dag er kallað Arfar, en með því hræðilega skriðufalli hafi áin stíflast úr sínum forna farveg og brostið vestur á Sveinsstaða og Steinness land, þángað sem nú rennur hún. það er vist, að ekki minnast nú nálægir að Sveinsstaðamenn hafi brúkað landið fyrir austan ána, en þó hefur þar um í almúgamunni knurr verið, en Steinnessmenn hafa inn til þess fyrir fáum árum jafnlega beitt kúm sínum á sumur austur yfir Vatnsdalsá, á það land, sem nú er Hnausamönnum til brúkunar fengið; voru kýrnar reknar þar sem enn heitir Nautavað, og gengu þær so mótmælalaust þar í haganum, alt austur undir árfar og suður undir Alftatjörn."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 66,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3286649392855,
+          65.454687438646
+        ]
+      },
+      "properties": {
+        "id": 66,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Helgavatn",
+        "farm_number": "HV-180",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar lækjarskriða úr brattlendi, og er hætt við spjöllum árlega."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 67,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3084509323364,
+          65.4672183495345
+        ]
+      },
+      "properties": {
+        "id": 67,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Hjallaland",
+        "farm_number": "HV-181",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "beit",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "pasture",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Uthagar fordjarfast árlega af skriðuföllum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 68,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3084509323364,
+          65.4672183495345
+        ]
+      },
+      "properties": {
+        "id": 68,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Hjallaland",
+        "farm_number": "HV-181",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu er mjög hætt fyrir skriðum, og hefur það því að stórmeini orðið. Ekki er heldur bænum óhætt fyrir fjallskriðum, hefur þó þrisvar undan skriðunum færður verið, þángað sem nú er hann síðast"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 69,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3219324066506,
+          65.4850027736686
+        ]
+      },
+      "properties": {
+        "id": 69,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Márstaðir",
+        "farm_number": "HV-183",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið er fordjarfað af skriðum, og vofir sá skaði yfir jafnan, so að hverki er óhætt bænum nje kirkjunni."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 70,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3121989799237,
+          65.4771763783798
+        ]
+      },
+      "properties": {
+        "id": 70,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Márstaðir",
+        "farm_number": "HV-183",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið er fordjarfað af skriðum, og vofir sá skaði yfir jafnan, so að hverki er óhætt bænum nje kirkjunni."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 71,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3167891576914,
+          65.4827173794745
+        ]
+      },
+      "properties": {
+        "id": 71,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Márstaðir",
+        "farm_number": "HV-183",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið er fordjarfað af skriðum, og vofir sá skaði yfir jafnan, so að hverki er óhætt bænum nje kirkjunni."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 72,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3248238610797,
+          65.4917482176574
+        ]
+      },
+      "properties": {
+        "id": 72,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Márstaðir",
+        "farm_number": "HV-183",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnið er fordjarfað af skriðum, og vofir sá skaði yfir jafnan, so að hverki er óhætt bænum nje kirkjunni."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 73,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3270364848642,
+          65.4975806860108
+        ]
+      },
+      "properties": {
+        "id": 73,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Bjarnastaðir",
+        "farm_number": "HV-184",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spilla skriður til stórskaða."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 74,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.342516088614,
+          65.5429223701688
+        ]
+      },
+      "properties": {
+        "id": 74,
+        "shire_name": "Sveinsstaðahreppur",
+        "shire_number": null,
+        "farm_name": "Brekka",
+        "farm_number": "HV-187",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "2. nýlega",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "recently",
+        "environmental_threat_notes": "Túninu hefur nýlega spilt grjótskriða úr brattlendi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 75,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3047817975143,
+          65.4270507735225
+        ]
+      },
+      "properties": {
+        "id": 75,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Flaga",
+        "farm_number": "HV-190",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar lækjarskriða úr brattlendi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 76,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.3016248577356,
+          65.417309376809
+        ]
+      },
+      "properties": {
+        "id": 76,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Gilsstaðir",
+        "farm_number": "HV-191",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar grjótskriða af brattlendis lækjum."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 77,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2550357915855,
+          65.3935014072841
+        ]
+      },
+      "properties": {
+        "id": 77,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Undirfell",
+        "farm_number": "HV-193",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar skriða úr brattlendi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 78,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2654855154519,
+          65.393321581224
+        ]
+      },
+      "properties": {
+        "id": 78,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Undirfell",
+        "farm_number": "HV-193",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar skriða úr brattlendi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 79,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2523183428927,
+          65.3786042339185
+        ]
+      },
+      "properties": {
+        "id": 79,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Brúsastaðir",
+        "farm_number": "HV-195",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu spillir skriða úr brattlendi, og lækur sem jarðföll gjörir í túninu."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 80,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1812766339458,
+          65.3263423027314
+        ]
+      },
+      "properties": {
+        "id": 80,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Grímstungur",
+        "farm_number": "HV-199",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu granda leirskriður af brattlendi"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 81,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1807721011486,
+          65.3286154088644
+        ]
+      },
+      "properties": {
+        "id": 81,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Grímstungur",
+        "farm_number": "HV-199",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu granda leirskriður af brattlendi"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 82,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1016973475807,
+          65.3047190199963
+        ]
+      },
+      "properties": {
+        "id": 82,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Dalkot",
+        "farm_number": "HV-200",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "2. nýlega",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "recently",
+        "environmental_threat_notes": "Landskuld er nú xl álnir, var áður lx, og því aftur fært, að skriða fordjarfaði engið."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 83,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1026099672941,
+          65.3031380913681
+        ]
+      },
+      "properties": {
+        "id": 83,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Forsæludalur",
+        "farm_number": "HV-201",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar leirskriða."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 84,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1246347217179,
+          65.3108629256329
+        ]
+      },
+      "properties": {
+        "id": 84,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Kot",
+        "farm_number": "HV-202",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "slægja / engi",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "hay",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Enginu granda leirskriður úr fjalli."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 85,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1017540460304,
+          65.3425496480189
+        ]
+      },
+      "properties": {
+        "id": 85,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Guðrúnarstaðir",
+        "farm_number": "HV-205",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar lækjarskriða með grjóti."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 86,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1604044572037,
+          65.3497472577089
+        ]
+      },
+      "properties": {
+        "id": 86,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Guðrúnarstaðir",
+        "farm_number": "HV-205",
+        "is_lookup_environmental_agents": "vatnsgangur",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "water",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu grandar lækjarskriða með grjóti."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 87,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.1955669207287,
+          65.3659449658759
+        ]
+      },
+      "properties": {
+        "id": 87,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Giljá",
+        "farm_number": "HV-208",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu á þeim parti jarðarinnar, sem Giljaá heitir, granda leir og grjótskriður úr brattlendi."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 88,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2285444799011,
+          65.3819703430386
+        ]
+      },
+      "properties": {
+        "id": 88,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Hof",
+        "farm_number": "HV-210",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu er merkilega hætt fyrir skriðu, og hefur hún á vorum dögum að miklum skaða orðið, sem nú er þó bættur, nema einn eyrirsvöllur, hann hefur skriðan aleytt."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 89,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2318831052719,
+          65.3937936734569
+        ]
+      },
+      "properties": {
+        "id": 89,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Hof",
+        "farm_number": "HV-210",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist mjög",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "rapidly decreasing",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túninu er merkilega hætt fyrir skriðu, og hefur hún á vorum dögum að miklum skaða orðið, sem nú er þó bættur, nema einn eyrirsvöllur, hann hefur skriðan aleytt."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 90,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2776602182513,
+          65.4180992440754
+        ]
+      },
+      "properties": {
+        "id": 90,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Hvammur",
+        "farm_number": "HV-213",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnin eru fordjörfuð af skriðum, hefur sá skaði nýlega aukist, og ei óhætt að meiri skaði verði."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 91,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2681566873122,
+          65.4198685126687
+        ]
+      },
+      "properties": {
+        "id": 91,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Hvammur",
+        "farm_number": "HV-213",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnin eru fordjörfuð af skriðum, hefur sá skaði nýlega aukist, og ei óhætt að meiri skaði verði."
+      }
+    },
+    {
+      "type": "Feature",
+      "id": 92,
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.2749631403941,
+          65.4257793060119
+        ]
+      },
+      "properties": {
+        "id": 92,
+        "shire_name": "Áshreppur",
+        "shire_number": 5601,
+        "farm_name": "Hvammur",
+        "farm_number": "HV-213",
+        "is_lookup_environmental_agents": "skriða",
+        "is_lookup_resource": "tún",
+        "is_lookup_resource_change": "eyðist - ekki tiltekið",
+        "is_temporal_phase": "1. nú",
+        "en_lookup_environmental_agents": "landslide",
+        "en_lookup_resource": "homefield",
+        "en_lookup_resource_change": "decreases, no further info",
+        "en_temporal_phase": "now",
+        "environmental_threat_notes": "Túnin eru fordjörfuð af skriðum, hefur sá skaði nýlega aukist, og ei óhætt að meiri skaði verði."
+      }
+    }
+  ]
+}

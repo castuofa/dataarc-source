@@ -1,0 +1,985 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.35072884,
+          59.07621553
+        ]
+      },
+      "properties": {
+        "Period": "Late Norse",
+        "Date": "AD mid 10th - 15th C",
+        "start": 1150,
+        "end": 1600,
+        "Site": "Beachview ",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "Site A, K-Y",
+        "NISP": 1802,
+        "percent Terrestrial mammal": 89.12,
+        "percent Marine mammal": 1.78,
+        "percent Avian": 9.1,
+        "percent Cattle": 23.36,
+        "percent Sheep/goat": 48.22,
+        "percentPig": 12.6,
+        "percent Domestic bovids": 71.59,
+        "Ratio of pig to domestic bovid (percent)": 17.6,
+        "Ratio of caprine to cow (percent)": 67.36,
+        "Total mandibles": 31,
+        "percent_lt_12months": 6.45,
+        "percent_1-4yrs": 61.29,
+        "percent_gt_4yrs": 32.26,
+        "citation": "Rackham 1996"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.328705206,
+          59.13703865
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age II",
+        "Date": "AD600-AD800",
+        "start": 600,
+        "end": 800,
+        "Site": "Broch of Birsay",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "all sites com, ph1",
+        "NISP": 3085,
+        "percent Terrestrial mammal": 99.87,
+        "percent Marine mammal": 0,
+        "percent Avian": 0.13,
+        "percent Cattle": 40.71,
+        "percent Sheep/goat": 52.22,
+        "percentPig": 3.18,
+        "percent Domestic bovids": 92.93,
+        "Ratio of pig to domestic bovid (percent)": 3.42,
+        "Ratio of caprine to cow (percent)": 56.19,
+        "Total mandibles": 31,
+        "percent_lt_12months": 0,
+        "percent_1-4yrs": 19.35,
+        "percent_gt_4yrs": 80.65,
+        "citation": "Sellar 1986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.328705206,
+          59.13703865
+        ]
+      },
+      "properties": {
+        "Period": "Viking ",
+        "Date": "AD end 8-mid 10th",
+        "start": 950,
+        "end": 1100,
+        "Site": "Broch of Birsay",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "all sites com, ph2",
+        "NISP": 8084,
+        "percent Terrestrial mammal": 99.67,
+        "percent Marine mammal": 0,
+        "percent Avian": 0.33,
+        "percent Cattle": 38.26,
+        "percent Sheep/goat": 26.89,
+        "percentPig": 33.93,
+        "percent Domestic bovids": 65.15,
+        "Ratio of pig to domestic bovid (percent)": 52.08,
+        "Ratio of caprine to cow (percent)": 41.28,
+        "Total mandibles": 115,
+        "percent_lt_12months": 5.22,
+        "percent_1-4yrs": 71.3,
+        "percent_gt_4yrs": 23.48,
+        "citation": "Sellar 1986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.328705206,
+          59.13703865
+        ]
+      },
+      "properties": {
+        "Period": "Late Norse",
+        "Date": "AD mid 10th - 15th C",
+        "start": 1150,
+        "end": 1600,
+        "Site": "Broch of Birsay",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "all sites com, ph3",
+        "NISP": 3627,
+        "percent Terrestrial mammal": 98.26,
+        "percent Marine mammal": 0,
+        "percent Avian": 1.74,
+        "percent Cattle": 44.55,
+        "percent Sheep/goat": 43.87,
+        "percentPig": 7.31,
+        "percent Domestic bovids": 88.42,
+        "Ratio of pig to domestic bovid (percent)": 8.26,
+        "Ratio of caprine to cow (percent)": 49.61,
+        "Total mandibles": 58,
+        "percent_lt_12months": 3.45,
+        "percent_1-4yrs": 15.52,
+        "percent_gt_4yrs": 81.03,
+        "citation": "Sellar 1986"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.318870518,
+          59.13537835
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age II",
+        "Date": "AD600-AD800",
+        "start": 600,
+        "end": 800,
+        "Site": "Brough Road A1&2",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "Ph A (areas 1 & 2)",
+        "NISP": 180,
+        "percent Terrestrial mammal": 50.56,
+        "percent Marine mammal": 5,
+        "percent Avian": 44.44,
+        "percent Cattle": 17.78,
+        "percent Sheep/goat": 13.89,
+        "percentPig": 11.67,
+        "percent Domestic bovids": 31.67,
+        "Ratio of pig to domestic bovid (percent)": 36.84,
+        "Ratio of caprine to cow (percent)": 43.86,
+        "Total mandibles": "Data not available",
+        "percent_lt_12months": "Data not available",
+        "percent_1-4yrs": "Data not available",
+        "percent_gt_4yrs": "Data not available",
+        "citation": "Rackham 1989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.318870518,
+          59.13537835
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age/Viking Interface",
+        "Date": "AD 6-8thC",
+        "start": 7000,
+        "end": 900,
+        "Site": "Brough Road A1&2",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "A1 - D, F1&2; A2 - C1&2, E1&2",
+        "NISP": 845,
+        "percent Terrestrial mammal": 74.67,
+        "percent Marine mammal": 2.6,
+        "percent Avian": 22.72,
+        "percent Cattle": 24.26,
+        "percent Sheep/goat": 18.82,
+        "percentPig": 21.42,
+        "percent Domestic bovids": 43.08,
+        "Ratio of pig to domestic bovid (percent)": 49.73,
+        "Ratio of caprine to cow (percent)": 43.68,
+        "Total mandibles": "Data not available",
+        "percent_lt_12months": "Data not available",
+        "percent_1-4yrs": "Data not available",
+        "percent_gt_4yrs": "Data not available",
+        "citation": "Rackham 1989"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.305904583,
+          59.4507477
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age II",
+        "Date": "AD600-AD800",
+        "start": 600,
+        "end": 800,
+        "Site": "Buckquoy",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "Pre-Norse Ia-Iiii",
+        "NISP": 2387,
+        "percent Terrestrial mammal": 95.98,
+        "percent Marine mammal": 0.63,
+        "percent Avian": 3.39,
+        "percent Cattle": 48.14,
+        "percent Sheep/goat": 23.13,
+        "percentPig": 20.36,
+        "percent Domestic bovids": 71.26,
+        "Ratio of pig to domestic bovid (percent)": 28.57,
+        "Ratio of caprine to cow (percent)": 32.45,
+        "Total mandibles": 11,
+        "percent_lt_12months": 45.45,
+        "percent_1-4yrs": 27.27,
+        "percent_gt_4yrs": 27.27,
+        "citation": "Noddle 1977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.305904583,
+          59.4507477
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age/Viking Interface",
+        "Date": "AD 6-8thC",
+        "start": 7000,
+        "end": 900,
+        "Site": "Buckquoy",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "Norse III-V",
+        "NISP": 3625,
+        "percent Terrestrial mammal": 95.34,
+        "percent Marine mammal": 0.22,
+        "percent Avian": 4.44,
+        "percent Cattle": 38.51,
+        "percent Sheep/goat": 40.8,
+        "percentPig": 12.86,
+        "percent Domestic bovids": 79.31,
+        "Ratio of pig to domestic bovid (percent)": 16.21,
+        "Ratio of caprine to cow (percent)": 51.44,
+        "Total mandibles": 9,
+        "percent_lt_12months": 44.44,
+        "percent_1-4yrs": 33.33,
+        "percent_gt_4yrs": 22.22,
+        "citation": "Noddle 1977"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.974202423,
+          58.78435486
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age II",
+        "Date": "AD600-AD800",
+        "start": 600,
+        "end": 800,
+        "Site": "Cairns",
+        "Location": "Orkney",
+        "Island/region": "S. Ronaldsay",
+        "Phase": "Cxt 808",
+        "NISP": 929,
+        "percent Terrestrial mammal": 89.99,
+        "percent Marine mammal": 0.65,
+        "percent Avian": 9.36,
+        "percent Cattle": 35.41,
+        "percent Sheep/goat": 35.41,
+        "percentPig": 14.1,
+        "percent Domestic bovids": 70.83,
+        "Ratio of pig to domestic bovid (percent)": 19.91,
+        "Ratio of caprine to cow (percent)": 50,
+        "Total mandibles": 12,
+        "percent_lt_12months": 50,
+        "percent_1-4yrs": 33.33,
+        "percent_gt_4yrs": 16.67,
+        "citation": "Behrendt 2015"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.156790166,
+          58.92299224
+        ]
+      },
+      "properties": {
+        "Period": "Viking/Late Norse",
+        "Date": "AD end 8th-15th",
+        "start": 950,
+        "end": 1600,
+        "Site": "Earls Bu",
+        "Location": "Orkney",
+        "Island/region": "Orphir",
+        "Phase": "Ph 7-12",
+        "NISP": 741,
+        "percent Terrestrial mammal": 90.69,
+        "percent Marine mammal": 0.13,
+        "percent Avian": 9.18,
+        "percent Cattle": 37.65,
+        "percent Sheep/goat": 32.52,
+        "percentPig": 19.3,
+        "percent Domestic bovids": 70.18,
+        "Ratio of pig to domestic bovid (percent)": 27.5,
+        "Ratio of caprine to cow (percent)": 46.35,
+        "Total mandibles": 11,
+        "percent_lt_12months": 0,
+        "percent_1-4yrs": 100,
+        "percent_gt_4yrs": 0,
+        "citation": "Mainland et al. in prep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.156790166,
+          58.92299224
+        ]
+      },
+      "properties": {
+        "Period": "Viking ",
+        "Date": "AD end 8-mid 10th",
+        "start": 950,
+        "end": 1100,
+        "Site": "Earls BU",
+        "Location": "Orkney",
+        "Island/region": "Orphir",
+        "Phase": "Ph 6",
+        "NISP": 714,
+        "percent Terrestrial mammal": 84.45,
+        "percent Marine mammal": 2.1,
+        "percent Avian": 13.45,
+        "percent Cattle": 32.21,
+        "percent Sheep/goat": 30.25,
+        "percentPig": 19.19,
+        "percent Domestic bovids": 62.46,
+        "Ratio of pig to domestic bovid (percent)": 30.72,
+        "Ratio of caprine to cow (percent)": 48.43,
+        "Total mandibles": 14,
+        "percent_lt_12months": 7.14,
+        "percent_1-4yrs": 92.86,
+        "percent_gt_4yrs": 0,
+        "citation": "Mainland et al. in prep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.156790166,
+          58.92299224
+        ]
+      },
+      "properties": {
+        "Period": "Late Norse",
+        "Date": "AD mid 10th - 15th C",
+        "start": 1150,
+        "end": 1600,
+        "Site": "Earls Bu",
+        "Location": "Orkney",
+        "Island/region": "Orphir",
+        "Phase": "Ph13-17",
+        "NISP": 4206,
+        "percent Terrestrial mammal": 71.94,
+        "percent Marine mammal": 0.02,
+        "percent Avian": 28.03,
+        "percent Cattle": 29.24,
+        "percent Sheep/goat": 15.72,
+        "percentPig": 19.61,
+        "percent Domestic bovids": 44.96,
+        "Ratio of pig to domestic bovid (percent)": 43.63,
+        "Ratio of caprine to cow (percent)": 34.96,
+        "Total mandibles": 16,
+        "percent_lt_12months": 12.5,
+        "percent_1-4yrs": 87.5,
+        "percent_gt_4yrs": 0,
+        "citation": "Mainland et al. in prep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.259796324,
+          58.97970694
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age I",
+        "Date": "AD300/400-AD600",
+        "start": 300,
+        "end": 800,
+        "Site": "Howe",
+        "Location": "Orkney",
+        "Island/region": "Stromness",
+        "Phase": "ph8",
+        "NISP": 9672,
+        "percent Terrestrial mammal": 92.98,
+        "percent Marine mammal": 0.67,
+        "percent Avian": 6.35,
+        "percent Cattle": 30.96,
+        "percent Sheep/goat": 37.34,
+        "percentPig": 17.93,
+        "percent Domestic bovids": 68.3,
+        "Ratio of pig to domestic bovid (percent)": 26.25,
+        "Ratio of caprine to cow (percent)": 54.68,
+        "Total mandibles": 72,
+        "percent_lt_12months": 43.06,
+        "percent_1-4yrs": 43.06,
+        "percent_gt_4yrs": 13.89,
+        "citation": "Smith 1994; Bramwell 1994"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.658701047,
+          59.24740982
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age",
+        "Date": "AD300/400-AD800",
+        "start": 300,
+        "end": 800,
+        "Site": "Pool",
+        "Location": "Orkney",
+        "Island/region": "Sanday",
+        "Phase": 6,
+        "NISP": 4690,
+        "percent Terrestrial mammal": 96.65,
+        "percent Marine mammal": 0.45,
+        "percent Avian": 2.9,
+        "percent Cattle": 39.45,
+        "percent Sheep/goat": 43.82,
+        "percentPig": 11.41,
+        "percent Domestic bovids": 83.26,
+        "Ratio of pig to domestic bovid (percent)": 13.7,
+        "Ratio of caprine to cow (percent)": 52.62,
+        "Total mandibles": 48,
+        "percent_lt_12months": 25,
+        "percent_1-4yrs": 62.5,
+        "percent_gt_4yrs": 12.5,
+        "citation": "Bond 2007; Serjeantson 2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.658701047,
+          59.24740982
+        ]
+      },
+      "properties": {
+        "Period": "Viking/Late Norse",
+        "Date": "AD end 8th-15th",
+        "start": 950,
+        "end": 1600,
+        "Site": "Pool",
+        "Location": "Orkney",
+        "Island/region": "Sanday",
+        "Phase": "phase 8 ",
+        "NISP": 4457,
+        "percent Terrestrial mammal": 94.53,
+        "percent Marine mammal": 1.14,
+        "percent Avian": 4.33,
+        "percent Cattle": 6.75,
+        "percent Sheep/goat": 3.48,
+        "percentPig": 1.21,
+        "percent Domestic bovids": 10.23,
+        "Ratio of pig to domestic bovid (percent)": 10.1,
+        "Ratio of caprine to cow (percent)": 54.46,
+        "Total mandibles": 51,
+        "percent_lt_12months": 37.25,
+        "percent_1-4yrs": 45.1,
+        "percent_gt_4yrs": 17.65,
+        "citation": "Bond 2007; Serjeantson 2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.658701047,
+          59.24740982
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age/Viking Interface",
+        "Date": "AD 6-8thC",
+        "start": 700,
+        "end": 900,
+        "Site": "Pool",
+        "Location": "Orkney",
+        "Island/region": "Sanday",
+        "Phase": "ph 7",
+        "NISP": 10149,
+        "percent Terrestrial mammal": 94.26,
+        "percent Marine mammal": 1.03,
+        "percent Avian": 4.71,
+        "percent Cattle": 34.58,
+        "percent Sheep/goat": 48.14,
+        "percentPig": 9.57,
+        "percent Domestic bovids": 82.73,
+        "Ratio of pig to domestic bovid (percent)": 11.57,
+        "Ratio of caprine to cow (percent)": 58.19,
+        "Total mandibles": 123,
+        "percent_lt_12months": 31.71,
+        "percent_1-4yrs": 55.28,
+        "percent_gt_4yrs": 13.01,
+        "citation": "Bond 2007; Serjeantson 2007"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.979246351,
+          59.34036505
+        ]
+      },
+      "properties": {
+        "Period": "Viking ",
+        "Date": "AD end 8-mid 10th",
+        "start": 950,
+        "end": 1100,
+        "Site": "Quoygrew",
+        "Location": "Orkney",
+        "Island/region": "Westray",
+        "Phase": "Ph 1",
+        "NISP": 1191,
+        "percent Terrestrial mammal": 87.32,
+        "percent Marine mammal": 0.92,
+        "percent Avian": 11.75,
+        "percent Cattle": 32.66,
+        "percent Sheep/goat": 40.97,
+        "percentPig": 12.26,
+        "percent Domestic bovids": 73.64,
+        "Ratio of pig to domestic bovid (percent)": 16.65,
+        "Ratio of caprine to cow (percent)": 55.64,
+        "Total mandibles": 35,
+        "percent_lt_12months": 38.57,
+        "percent_1-4yrs": 58.57,
+        "percent_gt_4yrs": 2.86,
+        "citation": "Harland 2012; Harland et al. 2012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.979246351,
+          59.34036505
+        ]
+      },
+      "properties": {
+        "Period": "Late Norse",
+        "Date": "AD mid 10th - 15th C",
+        "start": 1150,
+        "end": 1600,
+        "Site": "Quoygrew",
+        "Location": "Orkney",
+        "Island/region": "Westray",
+        "Phase": "Ph 2-3",
+        "NISP": 5227,
+        "percent Terrestrial mammal": 73.48,
+        "percent Marine mammal": 0.82,
+        "percent Avian": 25.69,
+        "percent Cattle": 46.64,
+        "percent Sheep/goat": 23.15,
+        "percentPig": 2.87,
+        "percent Domestic bovids": 69.79,
+        "Ratio of pig to domestic bovid (percent)": 4.11,
+        "Ratio of caprine to cow (percent)": 33.17,
+        "Total mandibles": 42,
+        "percent_lt_12months": 36.19,
+        "percent_1-4yrs": 63.81,
+        "percent_gt_4yrs": 0,
+        "citation": "Harland 2012; Harland et al. 2012"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.317297496,
+          59.12354652
+        ]
+      },
+      "properties": {
+        "Period": "Viking/Late Norse",
+        "Date": "AD end 8th-15th",
+        "start": 950,
+        "end": 1600,
+        "Site": "Saevar Howe",
+        "Location": "Orkney",
+        "Island/region": "Birsay",
+        "Phase": "Viking/Norse",
+        "NISP": 234,
+        "percent Terrestrial mammal": 100,
+        "percent Marine mammal": 0,
+        "percent Avian": 0,
+        "percent Cattle": 50,
+        "percent Sheep/goat": 33.76,
+        "percentPig": 16.24,
+        "percent Domestic bovids": 83.76,
+        "Ratio of pig to domestic bovid (percent)": 19.39,
+        "Ratio of caprine to cow (percent)": 40.31,
+        "Total mandibles": 5,
+        "percent_lt_12months": 20,
+        "percent_1-4yrs": 20,
+        "percent_gt_4yrs": 60,
+        "citation": "Rowley-Conwy 1983"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.254832581,
+          60.1434594
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age I",
+        "Date": "AD300/400-AD600",
+        "start": 300,
+        "end": 800,
+        "Site": "Scalloway",
+        "Location": "Shetland",
+        "Island/region": "Mainland",
+        "Phase": "early 3",
+        "NISP": 396,
+        "percent Terrestrial mammal": 97.47,
+        "percent Marine mammal": 1.77,
+        "percent Avian": 0.76,
+        "percent Cattle": 46.46,
+        "percent Sheep/goat": 31.06,
+        "percentPig": 16.16,
+        "percent Domestic bovids": 77.53,
+        "Ratio of pig to domestic bovid (percent)": 20.85,
+        "Ratio of caprine to cow (percent)": 40.07,
+        "Total mandibles": "Data not available",
+        "percent_lt_12months": "Data not available",
+        "percent_1-4yrs": "Data not available",
+        "percent_gt_4yrs": "Data not available",
+        "citation": "Sharples et al. 1998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.254832581,
+          60.1434594
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age II",
+        "Date": "AD600-AD800",
+        "start": 600,
+        "end": 800,
+        "Site": "Scalloway",
+        "Location": "Shetland",
+        "Island/region": "Mainland",
+        "Phase": "late 3",
+        "NISP": 1165,
+        "percent Terrestrial mammal": 98.28,
+        "percent Marine mammal": 0.52,
+        "percent Avian": 1.2,
+        "percent Cattle": 44.03,
+        "percent Sheep/goat": 34.33,
+        "percentPig": 18.28,
+        "percent Domestic bovids": 78.37,
+        "Ratio of pig to domestic bovid (percent)": 23.33,
+        "Ratio of caprine to cow (percent)": 43.81,
+        "Total mandibles": "Data not available",
+        "percent_lt_12months": "Data not available",
+        "percent_1-4yrs": "Data not available",
+        "percent_gt_4yrs": "Data not available",
+        "citation": "Sharples et al. 1998"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.304904757,
+          59.87302629
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age II",
+        "Date": "AD600-AD800",
+        "start": 600,
+        "end": 800,
+        "Site": "Scatness",
+        "Location": "Shetland",
+        "Island/region": "Mainland",
+        "Phase": "Ph 7",
+        "NISP": 1093,
+        "percent Terrestrial mammal": 83.71,
+        "percent Marine mammal": 6.95,
+        "percent Avian": 9.33,
+        "percent Cattle": 41.99,
+        "percent Sheep/goat": 26.44,
+        "percentPig": 14.46,
+        "percent Domestic bovids": 68.44,
+        "Ratio of pig to domestic bovid (percent)": 21.12,
+        "Ratio of caprine to cow (percent)": 38.64,
+        "Total mandibles": 7,
+        "percent_lt_12months": 30,
+        "percent_1-4yrs": 55,
+        "percent_gt_4yrs": 15,
+        "citation": "Cussans and Bond 2010; Nicholson 2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.304904757,
+          59.87302629
+        ]
+      },
+      "properties": {
+        "Period": "Viking ",
+        "Date": "AD end 8-mid 10th",
+        "start": 950,
+        "end": 1100,
+        "Site": "Scatness",
+        "Location": "Shetland",
+        "Island/region": "Mainland",
+        "Phase": "ph 8",
+        "NISP": 743,
+        "percent Terrestrial mammal": 74.02,
+        "percent Marine mammal": 8.08,
+        "percent Avian": 17.9,
+        "percent Cattle": 40.51,
+        "percent Sheep/goat": 20.86,
+        "percentPig": 7.27,
+        "percent Domestic bovids": 61.37,
+        "Ratio of pig to domestic bovid (percent)": 11.84,
+        "Ratio of caprine to cow (percent)": 33.99,
+        "Total mandibles": 9,
+        "percent_lt_12months": 45,
+        "percent_1-4yrs": 55,
+        "percent_gt_4yrs": 0,
+        "citation": "Cussans and Bond 2010; Nicholson 2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.304904757,
+          59.87302629
+        ]
+      },
+      "properties": {
+        "Period": "Late Norse",
+        "Date": "AD mid 10th - 15th C",
+        "start": 1150,
+        "end": 1600,
+        "Site": "Scatness",
+        "Location": "Shetland",
+        "Island/region": "Mainland",
+        "Phase": "ph 9",
+        "NISP": 243,
+        "percent Terrestrial mammal": 67.9,
+        "percent Marine mammal": 6.17,
+        "percent Avian": 25.93,
+        "percent Cattle": 34.98,
+        "percent Sheep/goat": 18.93,
+        "percentPig": 4.12,
+        "percent Domestic bovids": 53.91,
+        "Ratio of pig to domestic bovid (percent)": 7.63,
+        "Ratio of caprine to cow (percent)": 35.11,
+        "Total mandibles": 0,
+        "percent_lt_12months": 0,
+        "percent_1-4yrs": 0,
+        "percent_gt_4yrs": 0,
+        "citation": "Cussans and Bond 2010; Nicholson 2010"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.333469215,
+          59.05633615
+        ]
+      },
+      "properties": {
+        "Period": "Late Iron Age",
+        "Date": "AD300/400-AD800",
+        "start": 300,
+        "end": 800,
+        "Site": "Skaill",
+        "Location": "Orkney",
+        "Island/region": "Deerness",
+        "Phase": "iron age",
+        "NISP": 13576,
+        "percent Terrestrial mammal": 95.33,
+        "percent Marine mammal": 0.88,
+        "percent Avian": 3.79,
+        "percent Cattle": 41.31,
+        "percent Sheep/goat": 38.12,
+        "percentPig": 9.89,
+        "percent Domestic bovids": 79.43,
+        "Ratio of pig to domestic bovid (percent)": 12.45,
+        "Ratio of caprine to cow (percent)": 47.99,
+        "Total mandibles": 141,
+        "percent_lt_12months": 22.7,
+        "percent_1-4yrs": 41.84,
+        "percent_gt_4yrs": 35.46,
+        "citation": "Noddle 1997; Allison 1997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.333469215,
+          59.05633615
+        ]
+      },
+      "properties": {
+        "Period": "Viking/Late Norse",
+        "Date": "AD end 8th-15th",
+        "start": 950,
+        "end": 1600,
+        "Site": "Skaill",
+        "Location": "Orkney",
+        "Island/region": "Deerness",
+        "Phase": "Viking/LN",
+        "NISP": 6323,
+        "percent Terrestrial mammal": 93.48,
+        "percent Marine mammal": 1.76,
+        "percent Avian": 4.76,
+        "percent Cattle": 43.51,
+        "percent Sheep/goat": 35.79,
+        "percentPig": 11.01,
+        "percent Domestic bovids": 79.3,
+        "Ratio of pig to domestic bovid (percent)": 13.88,
+        "Ratio of caprine to cow (percent)": 45.13,
+        "Total mandibles": 41,
+        "percent_lt_12months": 39.02,
+        "percent_1-4yrs": 34.15,
+        "percent_gt_4yrs": 26.83,
+        "citation": "Noddle 1997; Allison 1997"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.331958211,
+          59.05694452
+        ]
+      },
+      "properties": {
+        "Period": "Viking ",
+        "Date": "AD end 8-mid 10th",
+        "start": 950,
+        "end": 1100,
+        "Site": "Snusgar",
+        "Location": "Orkney",
+        "Island/region": "Sandwick",
+        "Phase": "Ph 2-3",
+        "NISP": 2195,
+        "percent Terrestrial mammal": 85.33,
+        "percent Marine mammal": 0.05,
+        "percent Avian": 14.62,
+        "percent Cattle": 39.95,
+        "percent Sheep/goat": 31.07,
+        "percentPig": 11.48,
+        "percent Domestic bovids": 71.03,
+        "Ratio of pig to domestic bovid (percent)": 16.16,
+        "Ratio of caprine to cow (percent)": 43.75,
+        "Total mandibles": 16,
+        "percent_lt_12months": 26.88,
+        "percent_1-4yrs": 66.88,
+        "percent_gt_4yrs": 6.25,
+        "citation": "Mainland et al. in prep"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -3.331958211,
+          59.05694452
+        ]
+      },
+      "properties": {
+        "Period": "Late Norse",
+        "Date": "AD mid 10th - 15th C",
+        "start": 1150,
+        "end": 1600,
+        "Site": "Snusgar",
+        "Location": "Orkney",
+        "Island/region": "Sandwick",
+        "Phase": "Ph 4-7",
+        "NISP": 3788,
+        "percent Terrestrial mammal": 88.94,
+        "percent Marine mammal": 0.11,
+        "percent Avian": 10.96,
+        "percent Cattle": 37.8,
+        "percent Sheep/goat": 33.84,
+        "percentPig": 11.91,
+        "percent Domestic bovids": 71.65,
+        "Ratio of pig to domestic bovid (percent)": 16.62,
+        "Ratio of caprine to cow (percent)": 47.24,
+        "Total mandibles": 24,
+        "percent_lt_12months": 26.67,
+        "percent_1-4yrs": 53.75,
+        "percent_gt_4yrs": 19.58,
+        "citation": "Mainland et al. in prep"
+      }
+    }
+  ]
+}
