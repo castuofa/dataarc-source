@@ -40,7 +40,6 @@ $RECYCLE.BIN/
 *.csv
 *.dat
 *.dmg
-*.gz
 *.iso
 *.jar
 *.rar
@@ -58,6 +57,7 @@ $RECYCLE.BIN/
 *.swm
 *.out
 *.pid
+*.zip
 
 
 ############################
