@@ -1,1 +1,5 @@
-{"this is a parse": error}
+{[
+	{"this is a parse": error},
+	{3: "another error"},
+	{"good": "this one is fine"}
+]}
