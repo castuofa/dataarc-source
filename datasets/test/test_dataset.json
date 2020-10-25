@@ -31,7 +31,11 @@
             },
             "some_arry_of_objects": [
                 {"a": 1, "b": 2},
-                {"a": 2, "b": 3}
+                {"a": 2, "b": 3},
+                {"deep_objarr": [
+                    {"a": 1, "b": 2},
+                    {"a": 2, "b": 3}
+                ]}
             ],
             "some_boolean": true
         },
@@ -70,93 +74,6 @@
             "coordinates": [
                 -17.382624,
                 65.855934
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties":
-        {
-            "id": 259,
-            "name": "Ljósvetninga saga",
-            "sagaid": 4,
-            "saganame": "Ljósvetninga saga",
-            "type": "valley",
-            "chapter": "1. kafli",
-            "chapternr": 1,
-            "action_start": "990",
-            "action_end": "1060",
-            "composition_start": "1200",
-            "composition_end": "1280",
-            "oldest_manuscript": "AM 561 4to",
-            "oldest_manuscript_start": "1390",
-            "oldest_manuscript_end": "1410",
-            "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0561"
-        },
-        "geometry":
-        {
-            "type": "Point",
-            "coordinates": [
-                -17.408612,
-                65.767622
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties":
-        {
-            "id": 298,
-            "name": "Ljósvetninga saga",
-            "sagaid": 4,
-            "saganame": "Ljósvetninga saga",
-            "type": "farm",
-            "chapter": "1. kafli",
-            "chapternr": 1,
-            "action_start": "990",
-            "action_end": "1060",
-            "composition_start": "1200",
-            "composition_end": "1280",
-            "oldest_manuscript": "AM 561 4to",
-            "oldest_manuscript_start": "1390",
-            "oldest_manuscript_end": "1410",
-            "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0561"
-        },
-        "geometry":
-        {
-            "type": "Point",
-            "coordinates": [
-                -16.910717,
-                65.644322
-            ]
-        }
-    },
-    {
-        "type": "Feature",
-        "properties":
-        {
-            "id": 345,
-            "name": "Ljósvetninga saga",
-            "sagaid": 4,
-            "saganame": "Ljósvetninga saga",
-            "type": "farm",
-            "chapter": "1. kafli",
-            "chapternr": 1,
-            "action_start": "990",
-            "action_end": "1060",
-            "composition_start": "1200",
-            "composition_end": "1280",
-            "oldest_manuscript": "AM 561 4to",
-            "oldest_manuscript_start": "1390",
-            "oldest_manuscript_end": "1410",
-            "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0561"
-        },
-        "geometry":
-        {
-            "type": "Point",
-            "coordinates": [
-                -17.321108,
-                65.958407
             ]
         }
     }]
