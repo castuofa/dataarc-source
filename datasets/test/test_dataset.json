@@ -35,7 +35,32 @@
                 {"deep_objarr": [
                     {"a": 1, "b": 2},
                     {"a": 2, "b": 3}
-                ]}
+                ]},
+                {"very deep": {
+                    "oldest_manuscript": "AM 561 4to",
+                    "oldest_manuscript_start": "1390",
+                    "oldest_manuscript_end": "1410",
+                    "manuscript_link": "https://handrit.is/en/manuscript/view/is/AM04-0561",
+                    "some_array": [1,2,3,4,5],
+                    "some_object": {
+                        "so_a": [0,1,2],
+                        "so_s": "some object string",
+                        "so_n": 97,
+                        "so_o": {
+                            "so_o_s": "some object embeded object with string"
+                        }
+                    },
+                    "some_arry_of_objects": [
+                        {"a": 1, "b": 2},
+                        {"a": 2, "b": 3},
+                        {"deep_objarr": [
+                            {"a": 1, "b": 2},
+                            {"a": 2, "b": 3}
+                        ]}
+                    ],
+                    "some_boolean": true
+                }
+                }
             ],
             "some_boolean": true
         },
