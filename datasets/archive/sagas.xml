@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Icelandic Saga Map</dc:title>
+<dc:creator>Emily Lethbridge</dc:creator>
+<dc:description>The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.</dc:description>
+<dcterms:abstract>The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.</dcterms:abstract>
+
+<dcterms:hasPart name="sagas_id" type="number">
+ <title>Sagas ID</title>
+ <description>The unique saga identification number assigned in the Icelandic Saga Map (ISM)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sagas_name" type="string">
+ <title>Sagas Name</title>
+ <description>Title of the written work (e.g. Laxdæla saga)</description>
+</dcterms:hasPart>	
+
+<!-- Emily apparently wants to remove this on import -->
+<dcterms:hasPart name="sagas_sagaid" type="number">
+ <title>Sagas ID</title>
+ <description>The unique saga identification number assigned in the Icelandic Saga Map (ISM)</description>
+</dcterms:hasPart>	
+
+<!-- Emily apparently wants to remove this on import -->
+<dcterms:hasPart name="sagas_saganame" type="string">
+ <title>Sagas Name</title>
+ <description>Title of the written work (e.g. Laxdæla saga)</description>
+</dcterms:hasPart>	
+
+<!-- Emily needs to rename this field upon reupload to Place Type -->
+<dcterms:hasPart name="sagas_type" type="string">
+ <title>Place Type</title>
+ <description>This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)</description>
+</dcterms:hasPart>	
+
+<!-- Emily - Is it more valuable to have the Chapter or Chapternr field in the database? Do we need ""kafli"" in each field or can we just display the chapter number? -->
+<dcterms:hasPart name="sagas_chapter" type="string">
+ <title>Sagas Chapter</title>
+ <description>Number of chapter within saga. (e.g. 1 kafli (Chapter 1))</description>
+</dcterms:hasPart>	
+
+<!-- Emily - See Above. Remove Chapter or Chapternr field from dataset when reuploaded -->
+<dcterms:hasPart name="sagas_chapternr" type="number">
+ <title>Sagas Chapter Number</title>
+ <description>Chapter number (number only)</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_action_start" type="string">
+ <title>Sagas Action Start</title>
+ <description>Year in Common Era (CE) noting the beginning of action in the saga.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_action_end" type="string">
+ <title>Sagas Action End</title>
+ <description>Year in Common Era (CE) noting the beginning of action in the saga.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_composition_start" type="string">
+ <title>Sagas Composition Start</title>
+ <description>Year in Common Era (CE) marking earliest time of written composition for a text.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_composition_end" type="string">
+ <title>Sagas Composition End</title>
+ <description>Year in Common Era (CE) marking earliest time of written composition for a text.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_oldest_manuscript" type="string">
+ <title>Sagas Oldest Manuscript</title>
+ <description>Accession number for the oldest manuscript for this saga</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_oldest_manuscript_start" type="string">
+ <title>Sagas Oldest Manuscript Start</title>
+ <description>Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_oldest_manuscript_end" type="string">
+ <title>Sagas Oldest Manuscript End</title>
+ <description>Year in Common Era (CE) marking the earliest date of production of the oldest manuscript of given saga</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="sagas_manuscript_link" type="string">
+ <title>Sagas Manuscript Link</title>
+ <description>URL to the online manuscript catalog with digital images and additional information</description>
+</dcterms:hasPart>	
+
+
+
+<dc:publisher>University of Iceland</dc:publisher>
+<dc:contributor>Trausti Dagsson</dc:contributor>
+<dc:contributor>Pétur Húni Björnsson</dc:contributor>
+<dc:contributor>Logi Ragnarsson</dc:contributor>
+<dc:contributor>Zachary Melton</dc:contributor>
+<dc:contributor>Gísli Pálsson</dc:contributor>
+<dc:contributor>Hjördís Erna Sigurðardóttir</dc:contributor>
+<dc:contributor>Nikola Machackova</dc:contributor>
+<dcterms:created>2015</dcterms:created>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>JSON</dc:format>
+<dc:language>English</dc:language>
+<dc:language>Icelandic</dc:language>
+<dc:relation>Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf</dc:relation>
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:spatial>Norway</dcterms:spatial>
+<dcterms:spatial>Denmark</dcterms:spatial>
+<dcterms:spatial>Sweden</dcterms:spatial>
+<dcterms:spatial>Greenland</dcterms:spatial>
+<dcterms:spatial>Faroe Islands</dcterms:spatial>
+<dcterms:spatial>United Kingdom</dcterms:spatial>
+<dcterms:spatial>North America</dcterms:spatial>
+<dcterms:temporal xsi:type="dcterms:Period">Early Viking Period - Modern, with focus on Early Viking Period</dcterms:temporal>
+<dcterms:temporal xsi:type="dcterms:Period">Late Viking Period</dcterms:temporal>
+<dcterms:temporal xsi:type="dcterms:Period">Early Medieval Period</dcterms:temporal>
+<dcterms:license>CC BY-NC</dcterms:license>
+
+</metadata>

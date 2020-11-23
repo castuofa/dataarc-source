@@ -104,7 +104,8 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:format>JSON</dc:format>
 <dc:language>English</dc:language>
 <dc:language>Icelandic</dc:language>
-<dc:relation>Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf</dc:relation>
+<dc:subject name="FISH Event Thesaurus" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Documentary research</dc:subject>
+<dc:subject name="FISH Event Thesaurus" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Dowsing Survey</dc:subject>
 <dcterms:spatial>Iceland</dcterms:spatial>
 <dcterms:spatial>Norway</dcterms:spatial>
 <dcterms:spatial>Denmark</dcterms:spatial>
@@ -116,6 +117,6 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dcterms:temporal xsi:type="dcterms:Period">Early Viking Period - Modern, with focus on Early Viking Period</dcterms:temporal>
 <dcterms:temporal xsi:type="dcterms:Period">Late Viking Period</dcterms:temporal>
 <dcterms:temporal xsi:type="dcterms:Period">Early Medieval Period</dcterms:temporal>
-<dcterms:license>CC BY-NC</dcterms:license>
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC BY-NC</dcterms:license>
 
 </metadata>
