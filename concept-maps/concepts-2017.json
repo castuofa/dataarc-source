@@ -952,6 +952,14 @@
     }
   ],
   "links": [
+    { "source": 6023, "target": 6481, "title": "P67_refers_to" },
+    { "source": 6023, "target": 6375, "title": "P21_had_general_purpose" },
+    { "source": 6481, "target": 6005, "title": "P11_had_participant" },
+    { "source": 6481, "target": 6225, "title": "P11_had_participant" },
+    { "source": 6101, "target": 6023, "title": "P21_had_general_purpose" },
+    { "source": 6102, "target": 6023, "title": "P21_had_general_purpose" },
+    { "source": 6540, "target": 6140, "title": "P127_has_broader_term" },
+    { "source": 6540, "target": 6140, "title": "P21_had_general_purpose" },
     { "source": 6030, "target": 6037, "title": "grave" },
     { "source": 6037, "target": 6030, "title": "occupies" },
     { "source": 6114, "target": 6163, "title": "E53_Place" },

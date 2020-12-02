@@ -1,0 +1,8 @@
+{
+	"items": [
+		{"yes": "this is fine"},
+		{"this is a parse": error},
+		{3: "another error"},
+		{"good": "this one is fine"}
+	]
+}
