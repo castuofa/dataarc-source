@@ -1,0 +1,2478 @@
+{
+  "type" : "FeatureCollection",
+  "features" : [
+    {
+      "type" : "Feature",
+      "id" : 1,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.331999999999937,
+          66.736000000000047,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 1,
+        "ID" : 1,
+        "Site_name" : "B997-315",
+        "Elev" : -220,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "12420",
+        "Youngest_date_BP" : "2760",
+        "Oldest_date_CE" : -10470,
+        "Youngest_date_CE" : -810,
+        "dating_method" : "14C",
+        "num_dates" : "5",
+        "number_of_samples" : 92,
+        "sampling_resolution" : 105,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.736000000000004,
+        "longitude" : -24.332000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 2,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.196999999999946,
+          66.67900000000003,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 2,
+        "ID" : 2,
+        "Site_name" : "MD99-2264",
+        "Elev" : -235,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "11850",
+        "Youngest_date_BP" : "1155",
+        "Oldest_date_CE" : -9900,
+        "Youngest_date_CE" : 795,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 104,
+        "sampling_resolution" : 103,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.679000000000002,
+        "longitude" : -24.196999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 3,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.196999999999946,
+          66.67900000000003,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 3,
+        "ID" : 3,
+        "Site_name" : "MD99-2263",
+        "Elev" : -235,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "1865",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : 85,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "5",
+        "number_of_samples" : 46,
+        "sampling_resolution" : 42,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "https://www.ncdc.noaa.gov/paleo-search/study/10828?siteId=47959",
+        "latitude" : 66.679000000000002,
+        "longitude" : -24.196999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 4,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -23.26499999999993,
+          66.228000000000065,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 4,
+        "ID" : 4,
+        "Site_name" : "MD99-2266",
+        "Elev" : -106,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "10825",
+        "Youngest_date_BP" : "400",
+        "Oldest_date_CE" : -8875,
+        "Youngest_date_CE" : 1550,
+        "dating_method" : "14C",
+        "num_dates" : "26",
+        "number_of_samples" : 175,
+        "sampling_resolution" : 60,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.227999999999994,
+        "longitude" : -23.265000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 5,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.149999999999977,
+          66.527000000000044,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 5,
+        "ID" : 5,
+        "Site_name" : "B997-324",
+        "Elev" : -282,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "12300",
+        "Youngest_date_BP" : "150",
+        "Oldest_date_CE" : -10350,
+        "Youngest_date_CE" : 1800,
+        "dating_method" : "14C",
+        "num_dates" : "17",
+        "number_of_samples" : 107,
+        "sampling_resolution" : 114,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.527000000000001,
+        "longitude" : -21.149999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 6,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.079999999999927,
+          65.867000000000075,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 6,
+        "ID" : 6,
+        "Site_name" : "B997-330",
+        "Elev" : -165,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "10970",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : -9020,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "9",
+        "number_of_samples" : 108,
+        "sampling_resolution" : 102,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 65.867000000000004,
+        "longitude" : -21.079999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 7,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -20.995999999999981,
+          66.573000000000036,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 7,
+        "ID" : 7,
+        "Site_name" : "B997-325",
+        "Elev" : -345,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "11610",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : -9660,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "10",
+        "number_of_samples" : 85,
+        "sampling_resolution" : 137,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.572999999999993,
+        "longitude" : -20.995999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 8,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -20.862999999999943,
+          66.640000000000043,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 8,
+        "ID" : 8,
+        "Site_name" : "B997-327",
+        "Elev" : -373,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "4340",
+        "Youngest_date_BP" : "310",
+        "Oldest_date_CE" : -2390,
+        "Youngest_date_CE" : 1640,
+        "dating_method" : "14C",
+        "num_dates" : "5",
+        "number_of_samples" : 63,
+        "sampling_resolution" : 64,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.640000000000001,
+        "longitude" : -20.863
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 9,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -20.862999999999943,
+          66.641000000000076,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 9,
+        "ID" : 9,
+        "Site_name" : "MD99-2269",
+        "Elev" : -365,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "11860",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : -9910,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "32",
+        "number_of_samples" : 413,
+        "sampling_resolution" : 29,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.641000000000005,
+        "longitude" : -20.863
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 10,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -20.226999999999975,
+          66.84600000000006,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 10,
+        "ID" : 10,
+        "Site_name" : "B997-323",
+        "Elev" : -397,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "15000",
+        "Youngest_date_BP" : "650",
+        "Oldest_date_CE" : -13050,
+        "Youngest_date_CE" : 1300,
+        "dating_method" : "14C",
+        "num_dates" : "3",
+        "number_of_samples" : 22,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.846000000000004,
+        "longitude" : -20.227
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 11,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -19.774999999999977,
+          66.938000000000045,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 11,
+        "ID" : 11,
+        "Site_name" : "B99-322",
+        "Elev" : -357,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "14600",
+        "Youngest_date_BP" : "980",
+        "Oldest_date_CE" : -12650,
+        "Youngest_date_CE" : 970,
+        "dating_method" : "14C",
+        "num_dates" : "4",
+        "number_of_samples" : 9,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.938000000000002,
+        "longitude" : -19.774999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 12,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.979999999999961,
+          66.891000000000076,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 12,
+        "ID" : 12,
+        "Site_name" : "B997-321",
+        "Elev" : -480,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "6160",
+        "Youngest_date_BP" : "355",
+        "Oldest_date_CE" : -4210,
+        "Youngest_date_CE" : 1595,
+        "dating_method" : "14C",
+        "num_dates" : "8",
+        "number_of_samples" : 62,
+        "sampling_resolution" : 94,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.891000000000005,
+        "longitude" : -18.98
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 13,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.864999999999952,
+          66.587000000000046,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 13,
+        "ID" : 13,
+        "Site_name" : "B997-317",
+        "Elev" : -494,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "3930",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : -1980,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 32,
+        "sampling_resolution" : 124,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.587000000000003,
+        "longitude" : -18.864999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 14,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.850999999999942,
+          66.442000000000064,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 14,
+        "ID" : 14,
+        "Site_name" : "B997-319",
+        "Elev" : -422,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "8950",
+        "Youngest_date_BP" : "175",
+        "Oldest_date_CE" : -7000,
+        "Youngest_date_CE" : 1775,
+        "dating_method" : "14C",
+        "num_dates" : "13",
+        "number_of_samples" : 69,
+        "sampling_resolution" : 127,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.441999999999993,
+        "longitude" : -18.850999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 15,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.789999999999964,
+          66.746000000000038,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 15,
+        "ID" : 15,
+        "Site_name" : "B997-316",
+        "Elev" : -658,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "1335",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : 615,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "3",
+        "number_of_samples" : 53,
+        "sampling_resolution" : 26,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.745999999999995,
+        "longitude" : -18.789999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 16,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.499999999999943,
+          66.335000000000036,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 16,
+        "ID" : 16,
+        "Site_name" : "B997-320",
+        "Elev" : -388,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "Q/K_feldspar",
+        "reconstruction" : "sea_ice",
+        "Oldest_date_BP" : "3400",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : -1450,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 59,
+        "sampling_resolution" : 58,
+        "spatial_extent" : "",
+        "Reference" : "Andrews 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12357?siteId=52568",
+        "Database_link2" : "",
+        "latitude" : 66.334999999999994,
+        "longitude" : -18.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 17,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          27.840000000000032,
+          68.071000000000083,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 17,
+        "ID" : 17,
+        "Site_name" : "JM96-1205",
+        "Elev" : -549,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "9220",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -7270,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "3",
+        "number_of_samples" : 499,
+        "sampling_resolution" : 18.476953907815631,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 68.070999999999998,
+        "longitude" : 27.84
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 18,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          29.35000000000008,
+          68.10000000000008,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 18,
+        "ID" : 18,
+        "Site_name" : "JM96-1207",
+        "Elev" : -404,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "9800",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -7850,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "5",
+        "number_of_samples" : 270,
+        "sampling_resolution" : 36.296296296296298,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 68.099999999999994,
+        "longitude" : 29.350000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 19,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          30.960000000000036,
+          67.288000000000068,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 19,
+        "ID" : 19,
+        "Site_name" : "JM96-1213",
+        "Elev" : -557,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "13830",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -11880,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "5",
+        "number_of_samples" : 461,
+        "sampling_resolution" : 30,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 67.287999999999997,
+        "longitude" : 30.960000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 20,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          30.970000000000027,
+          67.300000000000068,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 20,
+        "ID" : 20,
+        "Site_name" : "JM96-1214",
+        "Elev" : -574,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "11380",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -9430,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 556,
+        "sampling_resolution" : 20.467625899280577,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 67.299999999999997,
+        "longitude" : 30.969999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 21,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          30.86000000000007,
+          67.047000000000082,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 21,
+        "ID" : 21,
+        "Site_name" : "JM96-1215",
+        "Elev" : -668,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "12900",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -10950,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "10",
+        "number_of_samples" : 551,
+        "sampling_resolution" : 23.411978221415609,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 67.046999999999997,
+        "longitude" : 30.859999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 22,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          30.630000000000052,
+          65.963000000000079,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 22,
+        "ID" : 22,
+        "Site_name" : "JM96-1216",
+        "Elev" : -478,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "12040",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -10090,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "8",
+        "number_of_samples" : 234,
+        "sampling_resolution" : 51.452991452991455,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 65.962999999999994,
+        "longitude" : 30.629999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 23,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          24.000000000000057,
+          66.617000000000075,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 23,
+        "ID" : 23,
+        "Site_name" : "JM96-1232",
+        "Elev" : -215,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "9060",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -7110,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "4",
+        "number_of_samples" : 229,
+        "sampling_resolution" : 39.563318777292579,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.617000000000004,
+        "longitude" : 24
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 24,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          18.86000000000007,
+          66.587000000000046,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 24,
+        "ID" : 24,
+        "Site_name" : "B997-317",
+        "Elev" : -494,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "12270",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -10320,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 246,
+        "sampling_resolution" : 49.878048780487802,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.587000000000003,
+        "longitude" : 18.859999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 25,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          18.870000000000061,
+          66.891000000000076,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 25,
+        "ID" : 25,
+        "Site_name" : "B997-321",
+        "Elev" : -480,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "7540",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -5590,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "7",
+        "number_of_samples" : 275,
+        "sampling_resolution" : 27.418181818181818,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.891000000000005,
+        "longitude" : 18.870000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 26,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          21.150000000000034,
+          66.523000000000081,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 26,
+        "ID" : 26,
+        "Site_name" : "B997-324",
+        "Elev" : -282,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "9720",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -7770,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "12",
+        "number_of_samples" : 254,
+        "sampling_resolution" : 38.267716535433074,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.522999999999996,
+        "longitude" : 21.149999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 27,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          21.080000000000041,
+          65.870000000000061,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 27,
+        "ID" : 27,
+        "Site_name" : "B997-330",
+        "Elev" : -165,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "9420",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -7470,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "8",
+        "number_of_samples" : 492,
+        "sampling_resolution" : 19.146341463414632,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 65.870000000000005,
+        "longitude" : 21.079999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 28,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          24.180000000000064,
+          66.686000000000035,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 28,
+        "ID" : 28,
+        "Site_name" : "B997-335",
+        "Elev" : -239,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "10360",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -8410,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "3",
+        "number_of_samples" : 421,
+        "sampling_resolution" : 24.608076009501186,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.686000000000007,
+        "longitude" : 24.18
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 29,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          24.160000000000025,
+          66.686000000000035,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 29,
+        "ID" : 29,
+        "Site_name" : "B997-336",
+        "Elev" : -242,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "13680",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -11730,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 490,
+        "sampling_resolution" : 27.918367346938776,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.686000000000007,
+        "longitude" : 24.16
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 30,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          22.800000000000068,
+          66.016000000000076,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 30,
+        "ID" : 30,
+        "Site_name" : "B997-339",
+        "Elev" : -104,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "10450",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -8500,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "11",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.016000000000005,
+        "longitude" : 22.800000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 31,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          22.86000000000007,
+          66.258000000000038,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 31,
+        "ID" : 31,
+        "Site_name" : "B997-342",
+        "Elev" : -94,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "9270",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -7320,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "3",
+        "number_of_samples" : 410,
+        "sampling_resolution" : 22.609756097560975,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.257999999999996,
+        "longitude" : 22.859999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 32,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          24.480000000000075,
+          63.928000000000054,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 32,
+        "ID" : 32,
+        "Site_name" : "B997-347",
+        "Elev" : -321,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "10730",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -8780,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "8",
+        "number_of_samples" : 410,
+        "sampling_resolution" : 26.170731707317074,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 63.927999999999997,
+        "longitude" : 24.48
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 33,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          23.265500000000031,
+          66.22950000000003,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 33,
+        "ID" : 33,
+        "Site_name" : "MD99-2266",
+        "Elev" : -106,
+        "Source" : "marine",
+        "date_core_taken" : "ns",
+        "data_available" : "y",
+        "Proxy" : "magn_data",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "10670",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -8720,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "26",
+        "number_of_samples" : 3766,
+        "sampling_resolution" : 2.8332448220924058,
+        "spatial_extent" : "",
+        "Reference" : "Andrews et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/8691?siteId=20738",
+        "Database_link2" : "",
+        "latitude" : 66.229500000000002,
+        "longitude" : 23.265499999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 34,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -15.834699999999941,
+          66.23720000000003,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 34,
+        "ID" : 34,
+        "Site_name" : "Stora Vidarvatn",
+        "Elev" : 151,
+        "Source" : "lake",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Chironomids",
+        "reconstruction" : "temp",
+        "Oldest_date_BP" : "10663",
+        "Youngest_date_BP" : "125",
+        "Oldest_date_CE" : -8713,
+        "Youngest_date_CE" : 1825,
+        "dating_method" : "14C",
+        "num_dates" : "6",
+        "number_of_samples" : 19,
+        "sampling_resolution" : 554.63157894736844,
+        "spatial_extent" : "",
+        "Reference" : "Axford et al 2007",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/29332?siteId=20657",
+        "Database_link2" : "",
+        "latitude" : 66.237200000000001,
+        "longitude" : -15.8347
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 35,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -15.807599999999979,
+          66.240980000000036,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 35,
+        "ID" : 35,
+        "Site_name" : "Litla Vidarvatn",
+        "Elev" : 142,
+        "Source" : "lake",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Chironomids",
+        "reconstruction" : "temp",
+        "Oldest_date_BP" : "9900",
+        "Youngest_date_BP" : "1240",
+        "Oldest_date_CE" : -7950,
+        "Youngest_date_CE" : 710,
+        "dating_method" : "14C",
+        "num_dates" : "5",
+        "number_of_samples" : 15,
+        "sampling_resolution" : 577.33333333333337,
+        "spatial_extent" : "",
+        "Reference" : "Axford et al 2007",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/29332?siteId=20657",
+        "Database_link2" : "",
+        "latitude" : 66.240979999999993,
+        "longitude" : -15.807600000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 36,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -20.380249999999933,
+          66.059450000000083,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 36,
+        "ID" : 36,
+        "Site_name" : "Torfdalsvatn",
+        "Elev" : 52,
+        "Source" : "lake",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Chironomids",
+        "reconstruction" : "temp",
+        "Oldest_date_BP" : "11181",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -9231,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C",
+        "num_dates" : "7",
+        "number_of_samples" : 18,
+        "sampling_resolution" : 621.16666666666663,
+        "spatial_extent" : "",
+        "Reference" : "Axford et al 2007",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/29332?siteId=20657",
+        "Database_link2" : "https://www.ncdc.noaa.gov/paleo-search/study/22950?siteId=56850",
+        "latitude" : 66.059449999999998,
+        "longitude" : -20.38025
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 37,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.442999999999984,
+          63.963000000000079,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 37,
+        "ID" : 37,
+        "Site_name" : "MD99-2258",
+        "Elev" : 355,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "quartz",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "-",
+        "Youngest_date_BP" : "-",
+        "Oldest_date_CE" : null,
+        "Youngest_date_CE" : null,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : 42,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Axford et al 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12363?siteId=52580",
+        "Database_link2" : "",
+        "latitude" : 63.963000000000001,
+        "longitude" : -24.443000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 38,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.19199999999995,
+          66.673000000000059,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 38,
+        "ID" : 38,
+        "Site_name" : "KN158-4-72GGC",
+        "Elev" : 234,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "",
+        "Proxy" : "calcite/quartz",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "2129",
+        "Youngest_date_BP" : "32",
+        "Oldest_date_CE" : -179,
+        "Youngest_date_CE" : 1918,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : 67,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Axford et al 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12363?siteId=52580",
+        "Database_link2" : "",
+        "latitude" : 66.673000000000002,
+        "longitude" : -24.192
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 39,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.559999999999945,
+          67.590000000000032,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 39,
+        "ID" : 40,
+        "Site_name" : "JR51-GC35",
+        "Elev" : null,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Alkenones",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "10171",
+        "Youngest_date_BP" : "62",
+        "Oldest_date_CE" : -8221,
+        "Youngest_date_CE" : 1888,
+        "dating_method" : "14C",
+        "num_dates" : "10",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Bendle & Rosell-Melé 2007",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 67.590000000000003,
+        "longitude" : -17.559999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 40,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -30.409999999999968,
+          58.940000000000055,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 40,
+        "ID" : 41,
+        "Site_name" : "LO09-14",
+        "Elev" : null,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Diatoms",
+        "reconstruction" : "temp",
+        "Oldest_date_BP" : "10976",
+        "Youngest_date_BP" : "368",
+        "Oldest_date_CE" : -9026,
+        "Youngest_date_CE" : 1582,
+        "dating_method" : "14C",
+        "num_dates" : "40",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Berner et al 2008",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 58.939999999999998,
+        "longitude" : -30.41
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 41,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.19566999999995,
+          66.526500000000055,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 41,
+        "ID" : 42,
+        "Site_name" : "TRAWL B05AD03",
+        "Elev" : -82,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "shell_growth_increments",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "1301",
+        "Youngest_date_BP" : "-55",
+        "Oldest_date_CE" : 649,
+        "Youngest_date_CE" : 2005,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Butler et al 2013",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/14609?siteId=53112",
+        "Database_link2" : "",
+        "latitude" : 66.526499999999999,
+        "longitude" : -18.19567
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 42,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.999999999999943,
+          61.000000000000057,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 42,
+        "ID" : 43,
+        "Site_name" : "ODP 684",
+        "Elev" : -1648,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Mg/Ca;d18O;forams",
+        "reconstruction" : "temp;;",
+        "Oldest_date_BP" : "10423",
+        "Youngest_date_BP" : "554",
+        "Oldest_date_CE" : -8473,
+        "Youngest_date_CE" : 1396,
+        "dating_method" : "14C",
+        "num_dates" : "10",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Came et al 2007",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 61,
+        "longitude" : -25
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 43,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -22.406399999999962,
+          65.561200000000042,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 43,
+        "ID" : 44,
+        "Site_name" : "Efstadalsvatn",
+        "Elev" : 123,
+        "Source" : "lake",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Chironomids",
+        "reconstruction" : "temp",
+        "Oldest_date_BP" : "10840",
+        "Youngest_date_BP" : "4235",
+        "Oldest_date_CE" : -8890,
+        "Youngest_date_CE" : -2285,
+        "dating_method" : "14C;tephra",
+        "num_dates" : "4;2",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Caseldine et al 2003",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/30817?siteId=58490",
+        "Database_link2" : "",
+        "latitude" : 65.561199999999999,
+        "longitude" : -22.406400000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 44,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.864999999999952,
+          66.587833333000049,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 44,
+        "ID" : 45,
+        "Site_name" : "B997-317",
+        "Elev" : -494,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "13745",
+        "Youngest_date_BP" : "12",
+        "Oldest_date_CE" : -11795,
+        "Youngest_date_CE" : 1938,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2004",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 66.587833333333293,
+        "longitude" : -18.864999999999998
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 45,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.974499999999978,
+          66.89116666700005,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 45,
+        "ID" : 46,
+        "Site_name" : "B997-321",
+        "Elev" : -480,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "7854",
+        "Youngest_date_BP" : "370",
+        "Oldest_date_CE" : -5904,
+        "Youngest_date_CE" : 1580,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2005",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 66.891166666666706,
+        "longitude" : -18.974499999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 46,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.152216666999948,
+          66.523766667000075,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 46,
+        "ID" : 47,
+        "Site_name" : "B997-324",
+        "Elev" : -282,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "12056",
+        "Youngest_date_BP" : "26",
+        "Oldest_date_CE" : -10106,
+        "Youngest_date_CE" : 1924,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2006",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 66.523766666666702,
+        "longitude" : -21.1522166666667
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 47,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -20.863216666999961,
+          66.641416667000044,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 47,
+        "ID" : 48,
+        "Site_name" : "B997-327",
+        "Elev" : -373,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "4359",
+        "Youngest_date_BP" : "394",
+        "Oldest_date_CE" : -2409,
+        "Youngest_date_CE" : 1556,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2007",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 66.6414166666667,
+        "longitude" : -20.863216666666698
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 48,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.548383332999947,
+          65.956933333000052,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 48,
+        "ID" : 49,
+        "Site_name" : "B997-328",
+        "Elev" : -96,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "4616",
+        "Youngest_date_BP" : "26",
+        "Oldest_date_CE" : -2666,
+        "Youngest_date_CE" : 1924,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2008",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 65.956933333333296,
+        "longitude" : -21.548383333333302
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 49,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.298616666999976,
+          65.96670000000006,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 49,
+        "ID" : 50,
+        "Site_name" : "B997-329",
+        "Elev" : -111,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "10492",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -8542,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2009",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 65.966700000000003,
+        "longitude" : -21.2986166666667
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 50,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.088066666999964,
+          65.866766667000036,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 50,
+        "ID" : 51,
+        "Site_name" : "B997-330",
+        "Elev" : -170,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "11080",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -9130,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2010",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 65.866766666666706,
+        "longitude" : -21.088066666666698
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 51,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.640366666999967,
+          66.068250000000035,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 51,
+        "ID" : 52,
+        "Site_name" : "B997-331",
+        "Elev" : -46,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "4139",
+        "Youngest_date_BP" : "287",
+        "Oldest_date_CE" : -2189,
+        "Youngest_date_CE" : 1663,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 66.068250000000006,
+        "longitude" : -21.640366666666701
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 52,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.584749999999929,
+          66.136633333000077,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 52,
+        "ID" : 53,
+        "Site_name" : "B997-332",
+        "Elev" : -108,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;carbonates",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "10936",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -8986,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Castaneda et al 2012",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/6423?siteId=20739",
+        "Database_link2" : "",
+        "latitude" : 66.136633333333293,
+        "longitude" : -21.58475
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 53,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.19566999999995,
+          66.526500000000055,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 53,
+        "ID" : 54,
+        "Site_name" : "TRAWL B05AD03",
+        "Elev" : -83,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "shell_growth_increments",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "765",
+        "Youngest_date_BP" : "-45",
+        "Oldest_date_CE" : 1185,
+        "Youngest_date_CE" : 1995,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Cunningham et al 2013",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/14193?siteId=53112",
+        "Database_link2" : "",
+        "latitude" : 66.526499999999999,
+        "longitude" : -18.19567
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 54,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.699829999999963,
+          66.551670000000058,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 54,
+        "ID" : 55,
+        "Site_name" : "MD99-2275",
+        "Elev" : null,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Diatoms",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "950",
+        "Youngest_date_BP" : "-46",
+        "Oldest_date_CE" : 1000,
+        "Youngest_date_CE" : 1996,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Cunningham et al 2013",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/14193?siteId=53112",
+        "Database_link2" : "",
+        "latitude" : 66.551670000000001,
+        "longitude" : -17.699829999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 55,
+      "geometry" : null,
+      "properties" : {
+        "OBJECTID" : 55,
+        "Shape" : null,
+        "ID" : 56,
+        "Site_name" : "MD99-2276",
+        "Elev" : null,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Alkenones",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "950",
+        "Youngest_date_BP" : "-41",
+        "Oldest_date_CE" : 1000,
+        "Youngest_date_CE" : 1991,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Cunningham et al 2013",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/14193?siteId=53112",
+        "Database_link2" : "",
+        "latitude" : null,
+        "longitude" : null
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 56,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.699999999999932,
+          66.550000000000068,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 56,
+        "ID" : 57,
+        "Site_name" : "MD99-2275",
+        "Elev" : -410,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Diatoms;d18O;Carbonates",
+        "reconstruction" : "SST;;",
+        "Oldest_date_BP" : "1895",
+        "Youngest_date_BP" : "1",
+        "Oldest_date_CE" : 55,
+        "Youngest_date_CE" : 1949,
+        "dating_method" : "tephra",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Eiriksso et al 2006",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12897?siteId=52581",
+        "Database_link2" : "",
+        "latitude" : 66.549999999999997,
+        "longitude" : -17.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 57,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.369999999999948,
+          65.03000000000003,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 57,
+        "ID" : 58,
+        "Site_name" : "Haukadalsvatn",
+        "Elev" : 32,
+        "Source" : "lake",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "BSI;d13C;C/N;TOC;MS;sed_rate",
+        "reconstruction" : "temp;;;;;",
+        "Oldest_date_BP" : "10000",
+        "Youngest_date_BP" : "-1",
+        "Oldest_date_CE" : -8050,
+        "Youngest_date_CE" : 1951,
+        "dating_method" : "tephra",
+        "num_dates" : "8",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Geirsdottir et al 2013;Larsen et al 2012",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 65.030000000000001,
+        "longitude" : -21.370000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 58,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -19.849999999999966,
+          64.620000000000061,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 58,
+        "ID" : 59,
+        "Site_name" : "Hvitarvatn",
+        "Elev" : 422,
+        "Source" : "lake",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "BSI;d13C;C/N;TOC;DBD;sed_rate",
+        "reconstruction" : "temp;;;;;",
+        "Oldest_date_BP" : "10181",
+        "Youngest_date_BP" : "-38",
+        "Oldest_date_CE" : -8231,
+        "Youngest_date_CE" : 1988,
+        "dating_method" : "tephra",
+        "num_dates" : "8",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Geirsdottir et al 2013;Larsen et al 2012",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 64.620000000000005,
+        "longitude" : -19.850000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 59,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.419999999999959,
+          66.550000000000068,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 59,
+        "ID" : 60,
+        "Site_name" : "MD99-2275",
+        "Elev" : -470,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Diatoms",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "9271",
+        "Youngest_date_BP" : "75",
+        "Oldest_date_CE" : -7321,
+        "Youngest_date_CE" : 1875,
+        "dating_method" : "tephra",
+        "num_dates" : "12",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Jiang et al 2015",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/17635?siteId=52581",
+        "Database_link2" : "",
+        "latitude" : 66.549999999999997,
+        "longitude" : -17.420000000000002
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 60,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -23.849999999999966,
+          66.630000000000052,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 60,
+        "ID" : 61,
+        "Site_name" : "MD99-2269",
+        "Elev" : -365,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Diatoms",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "11477",
+        "Youngest_date_BP" : "-16",
+        "Oldest_date_CE" : -9527,
+        "Youngest_date_CE" : 1966,
+        "dating_method" : "14C;tephra",
+        "num_dates" : "24;2",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Justwan et al 2008",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/11920?siteId=19302",
+        "Database_link2" : "",
+        "latitude" : 66.629999999999995,
+        "longitude" : -23.850000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 61,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -23.26499999999993,
+          66.228000000000065,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 61,
+        "ID" : 62,
+        "Site_name" : "MD99-2266",
+        "Elev" : -106,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "ACL25-35;Uk'37;CBT;dD",
+        "reconstruction" : ";SST;soil_pH;temp",
+        "Oldest_date_BP" : "10744",
+        "Youngest_date_BP" : "310",
+        "Oldest_date_CE" : -8794,
+        "Youngest_date_CE" : 1640,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Moossen et al 2015",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/20023",
+        "Database_link2" : "",
+        "latitude" : 66.227999999999994,
+        "longitude" : -23.265000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 62,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.20999999999998,
+          64.300000000000068,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 62,
+        "ID" : 63,
+        "Site_name" : "MD99-2256",
+        "Elev" : -246,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "forams",
+        "reconstruction" : "SBT",
+        "Oldest_date_BP" : "11333",
+        "Youngest_date_BP" : "-43",
+        "Oldest_date_CE" : -9383,
+        "Youngest_date_CE" : 1993,
+        "dating_method" : "14C",
+        "num_dates" : "24",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Olafsdottir et al 2010",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 64.299999999999997,
+        "longitude" : -24.210000000000001
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 63,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -24.199999999999932,
+          66.680000000000064,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 63,
+        "ID" : 64,
+        "Site_name" : "MD99-2264",
+        "Elev" : -235,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "forams",
+        "reconstruction" : "SBT",
+        "Oldest_date_BP" : "11503",
+        "Youngest_date_BP" : "-24",
+        "Oldest_date_CE" : -9553,
+        "Youngest_date_CE" : 1974,
+        "dating_method" : "14C;tephra",
+        "num_dates" : "24;1",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Olafsdottir et al 2010",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 66.680000000000007,
+        "longitude" : -24.199999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 64,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -18.19566999999995,
+          66.526500000000055,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 64,
+        "ID" : 65,
+        "Site_name" : "North Icelandic Shelf",
+        "Elev" : -80,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O,d13C",
+        "reconstruction" : "",
+        "Oldest_date_BP" : "997",
+        "Youngest_date_BP" : "-50",
+        "Oldest_date_CE" : 953,
+        "Youngest_date_CE" : 2000,
+        "dating_method" : "",
+        "num_dates" : "",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Reynolds et al 2016",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/20448",
+        "Database_link2" : "",
+        "latitude" : 66.526499999999999,
+        "longitude" : -18.19567
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 65,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.699999999999932,
+          66.550000000000068,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 65,
+        "ID" : 66,
+        "Site_name" : "MD99-2275",
+        "Elev" : -470,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "Alkenones",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "1955",
+        "Youngest_date_BP" : "-51",
+        "Oldest_date_CE" : -5,
+        "Youngest_date_CE" : 2001,
+        "dating_method" : "tephra;137Cs;210Pb",
+        "num_dates" : "8;1;1",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Sicre et al 2011",
+        "Database_link" : "https://www.ncdc.noaa.gov/paleo-search/study/12359?siteId=52581",
+        "Database_link2" : "",
+        "latitude" : 66.549999999999997,
+        "longitude" : -17.699999999999999
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 66,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -21.499999999999943,
+          66.53000000000003,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 66,
+        "ID" : 67,
+        "Site_name" : "B997-321",
+        "Elev" : null,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;forams",
+        "reconstruction" : "SST;",
+        "Oldest_date_BP" : "6128",
+        "Youngest_date_BP" : "177",
+        "Oldest_date_CE" : -4178,
+        "Youngest_date_CE" : 1773,
+        "dating_method" : "14C",
+        "num_dates" : "-",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Smith et al 2005",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 66.530000000000001,
+        "longitude" : -21.5
+      }
+    },
+    {
+      "type" : "Feature",
+      "id" : 67,
+      "geometry" : {
+        "type" : "Point",
+        "coordinates" : [
+          -17.819999999999936,
+          62.090000000000032,
+          0
+        ]
+      },
+      "properties" : {
+        "OBJECTID" : 67,
+        "ID" : 68,
+        "Site_name" : "RAPID-12-1k",
+        "Elev" : -1938,
+        "Source" : "marine",
+        "date_core_taken" : "",
+        "data_available" : "y",
+        "Proxy" : "d18O;forams;Mg/Ca",
+        "reconstruction" : "SST",
+        "Oldest_date_BP" : "11869",
+        "Youngest_date_BP" : "0",
+        "Oldest_date_CE" : -9919,
+        "Youngest_date_CE" : 1950,
+        "dating_method" : "14C;tephra",
+        "num_dates" : "13;1",
+        "number_of_samples" : null,
+        "sampling_resolution" : null,
+        "spatial_extent" : "",
+        "Reference" : "Thornally et al 2009",
+        "Database_link" : "Sundqvist et al 2014",
+        "Database_link2" : "",
+        "latitude" : 62.090000000000003,
+        "longitude" : -17.82
+      }
+    }
+  ]
+}
