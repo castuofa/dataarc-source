@@ -17,7 +17,8 @@ Please include a summary of the change and which issue is fixed. Please also inc
 
 ## Checklist:
 
-- [ ] My data follows [GeoJSON](https://geojson.org/geojson-spec.html) standards
+- [ ] Data is encoded to `UTF-8`
+- [ ] Data follows [GeoJSON](https://geojson.org/geojson-spec.html) standards
 - [ ] I have performed a self-review of my own dataset
 - [ ] I understand I still need to "Process" my data in the main DataARC Contributor Tool
 
