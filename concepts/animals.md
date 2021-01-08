@@ -2,7 +2,7 @@
 ## Animals
 
 ###  Scope note: 
-"Animals" have legs, usually.
+"Animals" have legs, usually. But not always?
 
 ### Examples: 
 
