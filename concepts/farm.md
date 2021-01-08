@@ -3,6 +3,7 @@
 
 ###  Scope note: 
 A "farm" denotes an area of land and farmstead devoted to agricultural production such as growing crops and keeping livestock. A traditional farm tends to keep both animals (such as sheep and cattle) and growing crops (such as wheat, barley, and flax) often combining lands used for crop production with lands used for fodder and grazing. Evidence of farming activities in the landscape and functionality for prehistoric and historic farms can be analyzed by looking at plant macrofossils, fossil beetles, geochemistry, animal bones, and pollen records. This material can be sampled during excavations around the farmstead hearths, post holes, wells, and nearby lakes and bogs can provide general information on a landscape level.
+
 In the context of the North Atlantic, Norse settlers began cultivating the land and rearing livestock in both Iceland and Greenland when they were first colonized, forming the basis of their subsistence and economy. In Iceland, farms have been a constant feature in the landscape. Most farmsteads were established during the Viking Age and the core elements of the farmsteads were generally repaired or rebuilt in the same location throughout the centuries. This distribution was similar in Greenland, where farming was introduced by the Norse and farms were dispersed throughout the landscape. Estimates of Norse population in Greenland have been made based on the number and size of farms, as farms were directly correlated with population numbers at the time.
 
 
