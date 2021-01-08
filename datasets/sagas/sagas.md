@@ -1,5 +1,6 @@
-# Icelandic Saga Map
+﻿# Icelandic Saga Map
 **Creator:** Emily Lethbridge
+
 **Description:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.
 
 **Abstract:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.
@@ -20,7 +21,7 @@
 
 **Extent, spatial:** Iceland, Norway, Denmark, Sweden, Greenland, Faroe Islands, United Kingdom, North America
 
-**Extent, temporal:** Early Viking Period - Modern, with focus on Early Viking Period; Late Viking Period; Early Medieval Period
+**Extent, temporal:** 750 CE - 2,017 CE (with focus on 750 CE - 1,250 CE)
 
 **License:** CC BY-NC
 

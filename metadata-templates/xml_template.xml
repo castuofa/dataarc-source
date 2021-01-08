@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+<!-- If there are mulitple entries for a field (e.g. 3 authors, multiple formats, etc...), then create a NEW ENTRY for each Item.  See examples for Creator, Format, and Fish SubjectTerms below  -->
+ 
+<dc:title>Title goes here</dc:title>
+
+<dc:creator>Creator 1 Sample</dc:creator>
+<dc:creator>Creator 2 Sample</dc:creator>
+
+<dc:description>Long Description goes here<dcterms:abstract>
+
+<dc:publisher>Publisher goes here</dc:publisher>
+
+<dc:contributor>Contributor</dc:contributor>
+
+<dcterms:created>Date goes here</dcterms:created>
+
+<dc:type xsi:type="dcterms:DCMIType">Format goes here</dc:type>
+
+<dc:format>Format 1 Sample</dc:format>
+<dc:format>Format 2 Sample</dc:format>
+
+<dc:language>Language goes here</dc:language>
+
+<dc:relation>Relation  goes here</dc:relation>
+
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Sample Term #1 from Archaological Objects List</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Sample Term #2 from Archaological Objects List</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Repeat for as many terms you have from each List</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Sample Term #1 from Archaeological Sciences List</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Sample Term #2 from Archaeological Sciences List</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Repeat...</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Sample Term</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Sample Term OR Delete rows if unneeded</dc:subject>
+
+<dcterms:spatial>Country1 goes here</dcterms:spatial>
+
+<dcterms:temporal xsi:type="dcterms:W3CTDF">Temporal Extent goes here</dcterms:temporal>
+
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC License Type goes here</dcterms:license>
+
+ <!--Field Metadata.  Copy and paste entry for as many fields as needed-->
+ 
+<dcterms:hasPart name="Field name 1" type="Field type 1">
+ <title>Field Title 1</title>
+ <description>Field Description 1</description>
+</dcterms:hasPart>
+
+ <dcterms:hasPart name="Field name 2" type="Field type 2">
+ <title>Field Title 2</title>
+ <description>Field Description 2</description>
+</dcterms:hasPart>
+
+
+</metadata>

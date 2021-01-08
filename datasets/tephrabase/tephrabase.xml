@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+<dc:title>Tephrabase</dc:title>
+<dc:creator>Anthony Newton</dc:creator>
+<dc:description>Tephrabase contains details of tephra layers at over 1000 sites in Europe and over 400 of these are in Iceland. The Icelandic tephra layers range from the early Holocene period to the most recent eruptions. Many of the tephra layers erupted since the settlement of Iceland in the 9th century have been precisely dated from ice core dating and using historical sources. This has produced an unparalleled chronology which can be used date archaeological sites and palaeoenvironmental records, enabling correlations between the two and rates of environmental change to be studied.</dc:description>
+<dcterms:abstract>Tephrabase is a database of volcanic ash (tephra) layers and includes data from across Europe, including over 400 Icelandic sites. Tephra layers can be used to date and correlate archaeological and environmental records in Iceland from before Landnám to modern times.</dcterms:abstract>
+
+<dcterms:hasPart name="teph_sitenumber" type="number">
+ <title>Teph Sitenumber</title>
+ <description>Unique Tephrabase number given to each site</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="teph_sitename" type="string">
+ <title>Teph Sitename</title>
+ <description>Name of site</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_profilenumber" type="number">
+ <title>Teph Profilenumber</title>
+ <description>Unique Tephrabase number given to each profile at each site (usually just one per site)</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_profilename" type="string">
+ <title>Teph Profilename</title>
+ <description>Name given to the profile (core, soil section, pit etc) at each site.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_earliestyear" type="string">
+ <title>Teph Earliestyear</title>
+ <description>The youngest date from the profile, which is usually the date the profile was dug. This date can be used in sediment accumulation rate calculations.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_latestyear" type="string">
+ <title>Teph Latestyear</title>
+ <description>The year the oldest tephra layer found in that profile was deposited</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephraname" type="string">
+ <title>Teph Tephra Tephraname</title>
+ <description>The name of the tephra (volcanic ash) layer. Tephra is composed of any particulate material transported through the air during an eruption and can be composed of volcanic glass, minerals, rock fragments.</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephranumber" type="number">
+ <title>Teph Tephra Tephranumber</title>
+ <description>Unique Tephrabase number given to each tephra layer</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephrayear" type="number">
+ <title>Teph Tephra Tephrayear<title>
+ <description>The year that the tephra layer was deposited (if available)</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephraldepth" type="number">
+ <title>Teph Tephra Tephraldepth</title>
+ <description>The depth from the surface to the lower boundary of the tephra layer</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephraudepth" type="number">
+ <title>Teph Tephra Tephraudepth</title>
+ <description>The depth from the surface to the upper boundary of the tephra layer</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephrareference" type="number">
+ <title>Teph Tephra Tephrareference</title>
+ <description>Unique Tephrabase reference number, which links to publication or source details in Tephrabase</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra_tephraorder" type="number">
+ <title>Teph Tephra Tephraorder</title>
+ <description>The order of the tephra layer in the profile (starting with 1 at the top of the profile)</description>
+</dcterms:hasPart>	
+
+<dcterms:hasPart name="teph_tephra" type="array">
+ <title>Teph Tephra</title>
+ <description>All of the details for each tephra layer in a profile [an array]</description>
+</dcterms:hasPart>	
+
+
+<dc:publisher>University of Edinburgh</dc:publisher>
+<dc:contributor></dc:contributor>
+<dcterms:created>1995</dcterms:created>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>JSON</dc:format>
+<dc:language>English</dc:language>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Tephra</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Tephrochronology</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Palaeoenvironmental analysis</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Stratigraphic description</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Test pit</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Environmental sampling</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Geomorphological survey</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Palaeolandscape component</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Peat deposit</dc:subject>
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,011 CE</dcterms:temporal>
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
+
+</metadata>

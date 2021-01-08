@@ -114,9 +114,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dcterms:spatial>Faroe Islands</dcterms:spatial>
 <dcterms:spatial>United Kingdom</dcterms:spatial>
 <dcterms:spatial>North America</dcterms:spatial>
-<dcterms:temporal xsi:type="dcterms:Period">Early Viking Period - Modern, with focus on Early Viking Period</dcterms:temporal>
-<dcterms:temporal xsi:type="dcterms:Period">Late Viking Period</dcterms:temporal>
-<dcterms:temporal xsi:type="dcterms:Period">Early Medieval Period</dcterms:temporal>
+<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,017 CE (with focus on 750 CE - 1250 CE) </dcterms:temporal>
 <dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC BY-NC</dcterms:license>
 
 </metadata>

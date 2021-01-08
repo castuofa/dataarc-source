@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+<!-- If there are mulitple entries for a field (e.g. 3 authors, multiple formats, etc...), then create a NEW ENTRY for each Item.  See examples for Creator, Format, and Fish SubjectTerms below  -->
+ 
+<dc:title>NABONOSEAD</dc:title>
+
+<dc:creator>Thomas H. McGovern</dc:creator>
+<dc:creator>Thomas J. Ryan Jr.</dc:creator>
+<dc:creator>Philip Buckland</dc:creator>
+<dc:description>NABONE was designed as a package to allow for consistent recording and reporting of zooarchaeological (animal bone) data from archaeological sites. The package was developed in 1995-97 following an NSF funded workshop at Hunter College CUNY that brought together 27 active zooarchaeologists working in the N Atlantic/ Arctic areas and was an attempt to synthesize then current best practice approaches while allowing considerable flexibility for the user. The package consists of an MS Access database, specialized MS Excel files for calculation and graphics, and MS Word files for the coding and recording manual (now version 9) and any analysis notes. Multiple projects have used this system, especially those working with CUNY trained zooarchaeologists and most of the zooarchaeological record for Iceland and Greenland since 1997 is recorded on this system. The records are by taxon (to species level where possible but including more general levels such as “fish sp. unidentified”) and record the variables "END ", “SIZE”, “FUSION STATE”, “BUTCHERY”, “BURNING”,“GNAWING”,“AGE”,“SEX”, plus tooth eruption and wear (following Grant 1982), and metrics (following Von Den Dreisch 1976). The package is being upgraded and modernized 2020-22.<dcterms:abstract>
+
+<dc:publisher>Bioarchaeological Labratory, Department of Anthropology, Hunter College, City University of New Yorke</dc:publisher>
+
+<dc:contributor>Sophia Perdikaris</dc:contributor>
+<dc:contributor>James Woollett</dc:contributor>
+<dc:contributor>Gavin Lucas</dc:contributor>
+<dc:contributor>Adolf Friðriksson</dc:contributor>
+<dc:contributor>Orri Vésteinsson</dc:contributor>
+<dc:contributor>Howell Roberts</dc:contributor>
+<dc:contributor>Hildur Gestsdóttir</dc:contributor>
+<dc:contributor>George Hambrecht</dc:contributor>
+<dc:contributor>Ragnar Edvardsson</dc:contributor>
+<dc:contributor>Colin Amundsen</dc:contributor>
+<dc:contributor>Arnar Már Vilhjálmsson</dc:contributor>
+<dc:contributor>Sigríður Þorgeirsdóttir</dc:contributor>
+<dc:contributor>Magnús Á. Sigurgeirsson</dc:contributor>
+<dc:contributor>Seth Brewington</dc:contributor>
+<dc:contributor>Ramona Harrison</dc:contributor>
+<dc:contributor>Konrad Smiarowski</dc:contributor>
+<dc:contributor>Megan Hicks</dc:contributor>
+<dc:contributor>Peter Kuchar</dc:contributor>
+<dc:contributor>Albina Palsdóttir</dc:contributor>
+<dc:contributor>Caroline Paulsen</dc:contributor>
+<dc:contributor>Andrea Harðardóttir</dc:contributor>
+<dc:contributor>James Taylor</dc:contributor>
+<dc:contributor>Torfi H. Tulinius</dc:contributor>
+
+<dcterms:created>1990</dcterms:created>
+
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+
+<dc:format>Access</dc:format>
+<dc:format>PostgreSQL</dc:format>
+<dc:format>JSON</dc:format>
+
+<dc:language>English</dc:language>
+
+<dc:relation uri=" https://www.nabohome.org/"> NABONE, NABO</dc:relation>
+
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Butchered Animal Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Fresh And Brackish Water</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Mollusca Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Terrestrial Mollusca Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Egg Shell</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Bird Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Fish Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Human Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Mammal Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Small Mammal Remains</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Oxygen Isotope Analysis</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Radiocarbon Dating</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Zooarchaeology</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Antler</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Bone</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Eggshell</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Tooth</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Coarse Sieving</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Flotation</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Hand Retrieval</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Specialist Sampling</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Altered By Animals</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Burnt</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Calcined</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Charred</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Silicified</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Test Pit</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Box Trenching</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Open Area Excavation</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Rescue Excavation</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Research Excavation</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Post Excavation Assessment</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Isolated Farm</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Farmstead</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Manor Farm</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Smallholding</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Fishing</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Fishing Ground</dc:subject>
+<dcterms:spatial>Greenland</dcterms:spatial>
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:spatial>Faroe Islands</dcterms:spatial>
+
+<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,017 CE</dcterms:temporal>
+
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC BY-NC-SA</dcterms:license>
+
+ <!--Field Metadata.  Copy and paste entry for as many fields as needed-->
+ 
+<dcterms:hasPart name="id" type="number">
+ <title>Id</title>
+ <description>The unique SEAD identification number.</description>
+</dcterms:hasPart>
+
+ <dcterms:hasPart name="Sampledata_sample_name" type="number">
+ <title>Sampledata Sample Name</title>
+ <description>Name of the soil sample from which the data are derived, e.g. S2 for Sample 2.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_site_id" type="number">
+ <title>Sampledata Site Id</title>
+ <description>The unique number assigned to a particular collection site in the SEAD database. For online site landing page prefix this number with https://browser.sead.se/site/</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_dating_type" type="string">
+ <title>Sampledata Dating Type</title>
+ <description>Broad dating method type used to date sample.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_sample_group_id" type="number">
+ <title>Sampledata Sample Group Id</title>
+ <description>Identification number for the sample group.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_start" type="string">
+ <title>Sampledata Start</title>
+ <description>Earliest possible date specimens were deposited.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_site_name" type="string">
+ <title>Sampledata Site Name</title>
+ <description>Name for the collection site based on geographic place names or other name used for identifying its location.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="country" type="string">
+ <title>Country</title>
+ <description>The country in which the sample(s) were taken.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_end" type="begin">
+ <title>Sampledata End</title>
+ <description>Latest possible date specimens were deposited.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_wild" type="number">
+ <title>Indicators Wild</title>
+ <description>Indicates that the specimen is from a wild species.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_domestic" type="number">
+ <title>Indicators Domestic</title>
+ <description>Indicates that the specimen is from domesticated species.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampledata_age_name" type="string">
+ <title>Sampledata Age Name</title>
+ <description>Geological or archaeological/cultural time period.</description>
+</dcterms:hasPart>
+
+
+<dcterms:hasPart name="sampledata_age_abbreviation" type="string">
+ <title>Sampledata Age Abbreviation	</title>
+ <description>Abbreviation of the geological or archaeological/cultural time period.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_marine_mammal" type="number">
+ <title>Indicators Marine Mammal</title>
+ <description>Indicates that the specimen is whale, dolphin, porpoise, or seal species.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_marine_fish" type="number">
+ <title>Indicators Marine Fish</title>
+ <description>Indicates that the fish specimen is found in, or taken from the sea.</description>
+</dcterms:hasPart>
+
+ <dcterms:hasPart name="indicators_terrestrial" type="number">
+ <title>Indicators Terrestrial</title>
+ <description>Indicates that the specimen lived on land.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_freshwater_fish" type="number">
+ <title>Indicators Freshwater Fish</title>
+ <description>Indicates that the fish specimen is found living in or taken from fresh water.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_aquatic" type="number">
+ <title>Indicators Aquatic</title>
+ <description>Indicates that the specimen lived in water.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_non_migratory_terrestrial" type="number">
+ <title>Indicators Non Migratory Terrestrial</title>
+ <description>A bird that lives on land and doesn’t migrate.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_sea_bird" type="number">
+ <title>Indicators Sea Bird</title>
+ <description>A bird that frequents the sea or coast.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_fresh_water_migrant" type="number">
+ <title>Indicators Fresh Water Migrant</title>
+ <description>A bird that frequents fresh water such as ducks and geese.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_on_fast_ice" type="number">
+ <title>Indicators On Fast Ice</title>
+ <description>Found on ice that extends out from the shore and is attached to it. Specifc to pinnipeds (seals, sea lions, walruses, etc.)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="indicators_on_floe_ice" type="number	">
+ <title>Indicators On Floe Ice</title>
+ <description>Found on large flat free mass of floating sea ice. Specifc to pinnipeds (seals, sea lions, walruses, etc.)</description>
+</dcterms:hasPart>
+
+
+
+
+
+</metadata>

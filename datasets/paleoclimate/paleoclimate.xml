@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xmlns:dc="http://purl.org/dc/elements/1.1/"
+xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+<!-- If there are mulitple entries for a field (e.g. 3 authors, multiple formats, etc...), then create a NEW ENTRY for each Item.  See examples for Creator, Format, and Fish SubjectTerms below  -->
+ 
+<dc:title>Climate Iceland</dc:title>
+
+<dc:creator>Willem Koster</dc:creator>
+
+<dc:description> The Climate Iceland is dataset is a collection of data from climate studies in the North Atlantic. Temperature reconstructions or ice sheet reconstructions are present. This database does not hold any data, rather, it contains important information about the studies and links to the actual data.
+<dcterms:abstract>
+
+<dc:publisher>Willem Koster</dc:publisher>
+
+<dc:contributor>NOAA (National Oceanic and Atmospheric Administration), Richard Streeter</dc:contributor>
+
+<dcterms:created>9/1/2020</dcterms:created>
+
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+
+<dc:format>CSV</dc:format>
+<dc:format>TXT</dc:format>
+<dc:format>JSON</dc:format>
+
+<dc:language>English</dc:language>
+
+<dc:relation>Refer to Database_link1 field</dc:relation>
+
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Tephra</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Radiocarbon Dating</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Tephrochronology</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Specialist Sampling</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Foraminifera Analysis</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Diatom Analysis</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Tephra</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Core sampling</dc:subject>
+
+
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:spatial>Greenland</dcterms:spatial>
+<dcterms:spatial>Faroe Islands</dcterms:spatial>
+
+<dcterms:temporal xsi:type="dcterms:W3CTDF">13,500 BCE - Present</dcterms:temporal>
+
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC BY-NC-ND</dcterms:license>
+
+ <!--Field Metadata.  Copy and paste entry for as many fields as needed-->
+ 
+<dcterms:hasPart name="objectid" type="number">
+ <title>Objectid</title>
+ <description>Unique identifier</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="elev" type="number">
+ <title>Elev</title>
+ <description>Elevation (in case of terrestrial cores), or ocean water depth (in case of marine cores)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="site_name" type="string">
+ <title>Site Name</title>
+ <description>Name of the site the core was taken as registered in the metadata associated with the study</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="id" type="number">
+ <title>Id</title>
+ <description>Sequential number based on time of entry</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="date_core_taken" type="string">
+ <title>Date Core Taken</title>
+ <description>Date that the core was taken, recorded as year-month-day</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="data_available" type="string">
+ <title>Data Available</title>
+ <description>Is the data available online or not (y/n)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="source" type="string">
+ <title>Source</title>
+ <description>Type of sediment that was cored</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="reconstruction" type="string">
+ <title>Reconstruction</title>
+ <description>The reconstruction that was made from (some of) the proxies</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="proxy" type="string">
+ <title>Proxy</title>
+ <description>The proxies that were recorded in the studies.  Values used in this dataset include Q/K_feldspar ( ), magn_data (), chironomids (), quartz(), calcite (), shell_growth_increments (), Mg/Ca (), d18O (), forams (), carbonates (), diatoms (), alkenones (), ACL25-35 (), UK’37 (), CBT (), dD (), d13C ().</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="oldest_date_bp" type="number">
+ <title>Oldest Date Bp</title>
+ <description>The oldest dated layer recorded in the core (does not mean the bottom of the core) recorded in calendar years BP (Before Present)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="youngest_date_bp" type="number">
+ <title>Youngest Date Bp</title>
+ <description>The youngest dated layer recorded in the core (does not mean the top of the core) recorded in calendar years BP (Before Present)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="dating_method" type="string">
+ <title>Dating Method</title>
+ <description>Type of dating used (radiometric, tephrochronology)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="youngest_date_ce" type="number">
+ <title>Youngest Date Ce</title>
+ <description>The youngest dated layer recorded in the core (does not mean the top of the core) recorded in calendar years CE (Common Era)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="number_of_samples" type="number">
+ <title>Number Of Samples</title>
+ <description>Type of dating used (radiometric, tephrochronology)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="oldest_date_ce" type="number">
+ <title>Oldest Date Ce</title>
+ <description>The oldest dated layer recorded in the core (does not mean the bottom of the core) recorded in calendar years CE (Common Era)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="num_dates" type="number">
+ <title>Num Dates</title>
+ <description>The number of dated layers in the core</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sampling_resolution" type="number">
+ <title>Sampling Resolution</title>
+ <description>The average number of time passed between two proxy samples (in years). Calculated as</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="database_link" type="string">
+ <title>Database Link</title>
+ <description>If applicable, a link to an online database where the data and/or the metadata is available</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="reference" type="string">
+ <title>Reference</title>
+ <description>Reference to the paper in which the core/study was published</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="latitude" type="number">
+ <title>Latitude</title>
+ <description>Latitude in decimal degrees as registered in metadata</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="longitude" type="number">
+ <title>Longitude</title>
+ <description>Longitude in decimal degrees as registered in metadata</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="database_link2" type="string">
+ <title>Database Link2</title>
+ <description>If applicable, a second link to an online database where the data and/or the metadata is available</description>
+</dcterms:hasPart>
+
+
+</metadata>
