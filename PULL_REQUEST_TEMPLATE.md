@@ -12,7 +12,6 @@ Please include a summary of the change and which issue is fixed. Please also inc
 -- Updated metadata for Tephrabase - md and xml (Angie)
 -- Updated metadata for Whales - md and xml (Angie)
 
-
 ### Types of changes
 
 - [ ] New dataset
