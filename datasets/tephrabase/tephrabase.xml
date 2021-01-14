@@ -4,10 +4,32 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+
 <dc:title>Tephrabase</dc:title>
 <dc:creator>Anthony Newton</dc:creator>
 <dc:description>Tephrabase contains details of tephra layers at over 1000 sites in Europe and over 400 of these are in Iceland. The Icelandic tephra layers range from the early Holocene period to the most recent eruptions. Many of the tephra layers erupted since the settlement of Iceland in the 9th century have been precisely dated from ice core dating and using historical sources. This has produced an unparalleled chronology which can be used date archaeological sites and palaeoenvironmental records, enabling correlations between the two and rates of environmental change to be studied.</dc:description>
-<dcterms:abstract>Tephrabase is a database of volcanic ash (tephra) layers and includes data from across Europe, including over 400 Icelandic sites. Tephra layers can be used to date and correlate archaeological and environmental records in Iceland from before Landnám to modern times.</dcterms:abstract>
+<dc:publisher>University of Edinburgh</dc:publisher>
+<dc:contributor></dc:contributor>
+<dcterms:created>1995</dcterms:created>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>JSON</dc:format>
+<dc:language>English</dc:language>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Tephra</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Tephrochronology</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Palaeoenvironmental analysis</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Stratigraphic description</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Test pit</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Environmental sampling</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Geomorphological survey</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Palaeolandscape component</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Peat deposit</dc:subject>
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,011 CE</dcterms:temporal>
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
+
+<!-- Field level metadata  -->
 
 <dcterms:hasPart name="teph_sitenumber" type="number">
  <title>Teph Sitenumber</title>
@@ -50,18 +72,18 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 </dcterms:hasPart>	
 
 <dcterms:hasPart name="teph_tephra_tephrayear" type="number">
- <title>Teph Tephra Tephrayear<title>
+ <title>Teph Tephra Tephrayear</title>
  <description>The year that the tephra layer was deposited (if available)</description>
 </dcterms:hasPart>	
 
 <dcterms:hasPart name="teph_tephra_tephraldepth" type="number">
  <title>Teph Tephra Tephraldepth</title>
- <description>The depth from the surface to the lower boundary of the tephra layer</description>
+ <description>The depth from the surface to the lower boundary of the tephra layer in meters</description>
 </dcterms:hasPart>	
 
 <dcterms:hasPart name="teph_tephra_tephraudepth" type="number">
  <title>Teph Tephra Tephraudepth</title>
- <description>The depth from the surface to the upper boundary of the tephra layer</description>
+ <description>The depth from the surface to the upper boundary of the tephra layer in meters</description>
 </dcterms:hasPart>	
 
 <dcterms:hasPart name="teph_tephra_tephrareference" type="number">
@@ -78,25 +100,5 @@ xmlns:dcterms="http://purl.org/dc/terms/">
  <title>Teph Tephra</title>
  <description>All of the details for each tephra layer in a profile [an array]</description>
 </dcterms:hasPart>	
-
-
-<dc:publisher>University of Edinburgh</dc:publisher>
-<dc:contributor></dc:contributor>
-<dcterms:created>1995</dcterms:created>
-<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
-<dc:format>JSON</dc:format>
-<dc:language>English</dc:language>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Tephra</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Tephrochronology</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Palaeoenvironmental analysis</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Stratigraphic description</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Test pit</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Environmental sampling</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Geomorphological survey</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Palaeolandscape component</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Peat deposit</dc:subject>
-<dcterms:spatial>Iceland</dcterms:spatial>
-<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,011 CE</dcterms:temporal>
-<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
 
 </metadata>

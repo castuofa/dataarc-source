@@ -3,8 +3,6 @@
 
 **Description:** This dataset includes some artifacts sampled as part of a larger NSF project #1503714, "Assessing the Distribution and Variability of Marine Mammals through Archaeology, Ancient DNA, and History in the North Atlantic." The NSF project has sampled whale bone from archaeological contexts from Orkney, Iceland, the Faroes, Greenland, and Newfoundland. Objects from several sites in Bronze Age, Iron Age, and Viking Age Orkney, included in the present data set, were sampled for both genetic and molecular identification. The larger project also includes historical, ethnographic, literary, and biological data in reconstructing whale use and whale populations across the premodern North Atlantic.
 
-**Abstract:** The Whales Project data includes artifacts sampled from Bronze Age through Viking Age Orkney. The data set includes artifact descriptions, bone descriptions, and aDNA (ancient DNA) and ZooMS (Zooarchaeology by Mass Spectrometry) data.
-
 **Publisher:** National Snow and Ice Data Center
 
 **Contributor(s):** Brenna McLeod Frasier, Ingrid Mainland, Claire MacKay, Michael Buckley
@@ -19,6 +17,12 @@
 
 **Relation:** 
 
+**Subject(s):** ([FISH Vocabularies](http://www.heritage-standards.org.uk/fish-vocabularies/)) - 
+[Archaeological Objects](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf): Mount, perforated disc, perforated object, worked object, carved object, unidentified object, disc, blank, waste, bone working debris, vessel, mammal remains;
+[Archaeological Sciences](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf): Human aspects, manufacturing debris, worked, carved, tool marked, ancient biomolecular analysis, zooarchaeology, bone, burnt, Stratigraphic Description;
+[Events](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf):  Post excavation assessment, thematic survey;
+[Historic Characterization](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf): N/A
+
 **Extent, spatial:** Scotland
 
 **Extent, temporal:** 800 BCE - 1,800 CE
@@ -27,7 +31,7 @@
 
 **Field List:**
 | Field Name	| Field Type	| Field Title	| Field Description	|
-|:----|:--------------------|:--------------------:|:--------------------:|:--------------------|
+|:----|:--------------------|:--------------------:|:--------------------|
 |test_whale_artefacts_id_number| string| Test Whale Artefacts Id Number| Unique identification number for finds dataset|
 |test_whale_artefacts_site| string| Test Whale Artefacts Site | Name of archaeological site|
 |test_whale_artefacts_site_year| string| Test Whale Artefacts Site | The year that the study took place starting with an abbreviation of the site name along with the last two digits of the date from the 1900s / 2000s|

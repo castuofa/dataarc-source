@@ -9,14 +9,11 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <!-- If there are mulitple entries for a field (e.g. 3 authors, multiple formats, etc...), then create a NEW ENTRY for each Item.  See examples for Creator, Format, and Fish SubjectTerms below  -->
  
 <dc:title>NABONOSEAD</dc:title>
-
 <dc:creator>Thomas H. McGovern</dc:creator>
 <dc:creator>Thomas J. Ryan Jr.</dc:creator>
 <dc:creator>Philip Buckland</dc:creator>
-<dc:description>NABONE was designed as a package to allow for consistent recording and reporting of zooarchaeological (animal bone) data from archaeological sites. The package was developed in 1995-97 following an NSF funded workshop at Hunter College CUNY that brought together 27 active zooarchaeologists working in the N Atlantic/ Arctic areas and was an attempt to synthesize then current best practice approaches while allowing considerable flexibility for the user. The package consists of an MS Access database, specialized MS Excel files for calculation and graphics, and MS Word files for the coding and recording manual (now version 9) and any analysis notes. Multiple projects have used this system, especially those working with CUNY trained zooarchaeologists and most of the zooarchaeological record for Iceland and Greenland since 1997 is recorded on this system. The records are by taxon (to species level where possible but including more general levels such as “fish sp. unidentified”) and record the variables "END ", “SIZE”, “FUSION STATE”, “BUTCHERY”, “BURNING”,“GNAWING”,“AGE”,“SEX”, plus tooth eruption and wear (following Grant 1982), and metrics (following Von Den Dreisch 1976). The package is being upgraded and modernized 2020-22.<dcterms:abstract>
-
+<dc:description>NABONE was designed as a package to allow for consistent recording and reporting of zooarchaeological (animal bone) data from archaeological sites. The package was developed in 1995-97 following an NSF funded workshop at Hunter College CUNY that brought together 27 active zooarchaeologists working in the N Atlantic/ Arctic areas and was an attempt to synthesize then current best practice approaches while allowing considerable flexibility for the user. The package consists of an MS Access database, specialized MS Excel files for calculation and graphics, and MS Word files for the coding and recording manual (now version 9) and any analysis notes. Multiple projects have used this system, especially those working with CUNY trained zooarchaeologists and most of the zooarchaeological record for Iceland and Greenland since 1997 is recorded on this system. The records are by taxon (to species level where possible but including more general levels such as “fish sp. unidentified”) and record the variables "END ", “SIZE”, “FUSION STATE”, “BUTCHERY”, “BURNING”,“GNAWING”,“AGE”,“SEX”, plus tooth eruption and wear (following Grant 1982), and metrics (following Von Den Dreisch 1976). The package is being upgraded and modernized 2020-22.</dc:description>
 <dc:publisher>Bioarchaeological Labratory, Department of Anthropology, Hunter College, City University of New Yorke</dc:publisher>
-
 <dc:contributor>Sophia Perdikaris</dc:contributor>
 <dc:contributor>James Woollett</dc:contributor>
 <dc:contributor>Gavin Lucas</dc:contributor>
@@ -40,17 +37,12 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:contributor>Andrea Harðardóttir</dc:contributor>
 <dc:contributor>James Taylor</dc:contributor>
 <dc:contributor>Torfi H. Tulinius</dc:contributor>
-
 <dcterms:created>1990</dcterms:created>
-
 <dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
-
 <dc:format>Access</dc:format>
 <dc:format>PostgreSQL</dc:format>
 <dc:format>JSON</dc:format>
-
 <dc:language>English</dc:language>
-
 <dc:relation uri=" https://www.nabohome.org/"> NABONE, NABO</dc:relation>
 
 <dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Butchered Animal Remains</dc:subject>
@@ -161,7 +153,6 @@ xmlns:dcterms="http://purl.org/dc/terms/">
  <description>Geological or archaeological/cultural time period.</description>
 </dcterms:hasPart>
 
-
 <dcterms:hasPart name="sampledata_age_abbreviation" type="string">
  <title>Sampledata Age Abbreviation	</title>
  <description>Abbreviation of the geological or archaeological/cultural time period.</description>
@@ -216,9 +207,6 @@ xmlns:dcterms="http://purl.org/dc/terms/">
  <title>Indicators On Floe Ice</title>
  <description>Found on large flat free mass of floating sea ice. Specifc to pinnipeds (seals, sea lions, walruses, etc.)</description>
 </dcterms:hasPart>
-
-
-
 
 
 </metadata>

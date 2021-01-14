@@ -3,8 +3,6 @@
 
 **Description:** The Strategic Environmental Archaeology Database (SEAD) is a database of proxy evidence for past environments, climates and human activities. It makes data available from archaeological and geological excavations, and includes a range of fossil types as chemical and physical measurements from similar contexts. This feed to DataARC includes the environmental interpretation of fossil insect finds. Rather than presenting the raw data (in terms of numbers of individuals of the species found fossil), the dataset provides the meaning of the data in terms of the habitats which supported the species. In this way, the data can be more easily mapped to other data sources through common terms. The dataset includes the entire European fossil insect record, and stretches back to at least the last million years. Most of the data are, however, from the last few millennia.
 
-**Abstract:** The Strategic Environmental Archaeology Database, fossil insect dataset includes environmental interpretations primarily from the European fossil insect record. The dataset covers approximately the last million years, but mainly last few millennia.
-
 **Publisher:** Umeå University, Sweden
 
 **Contributor(s):** See original database for list of contributors - over 1400 publications [https://www.sead.se/](https://www.sead.se/)
@@ -19,6 +17,12 @@
 
 **Relation:** Buckland, P.I. & Buckland, P.C. (2006). BugsCEP Coleopteran Ecology Package. IGBP PAGES/World Data Center for Paleoclimatology Data Contribution Series # 2006-116. NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. URL:http://www.ncdc.noaa.gov/paleo/insect.html or http://www.bugscep.com
 
+**Subject(s):** ([FISH Vocabularies](http://www.heritage-standards.org.uk/fish-vocabularies/)) - 
+[Archaeological Objects](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf): Insect Remains, Parasite Remains;
+[Archaeological Sciences](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf): Palaeoentomology, Palaeoenvironmental Analysis, Amino Acid Racemisation, Archaeomagnetism, Biostratigraphy, Dendrochronology, Electron Spin Resonance, Fission Track Analysis, Fluorine, Uranium And Nitrogen Tests, Lead Isotope Dating, Luminescence Dating, Mitochondrial DNA, Obsidian Hydration, Oxygen Isotope Analysis, Potassium Argon Dating, Radiocarbon Dating, Tephrochronology, Uranium Series Dating, Infra-red Stimulated Luminescence, Optically Stimulated Luminescence, Thermoluminescence, Microscopy, Beach Deposit, Geological Sediment, Peat Deposit, Flotation, Hand Retrieval, Coprolite, Pottery, Tufaceous Deposit, Impression;
+[Events](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf):  Archaeological Intervention, Evaluation, Test Pit, Trial Trench, Underwater Evaluation, Excavation, Box Trenching, Open Area Excavation, Rescue Excavation, Research Excavation, Underwater Excavation, Grab Sampling, Environmental Intervention, Borehole Survey, Environmental Sampling, Core Sampling, Gravity Core, Vibro Core, Monolith Sampling, Casual Observation, Non Archaeological Intervention, Borehole Survey;
+[Historic Characterization](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf): Aggregates Quarry, Ancient Enclosure, Ancient Woodland (Broadleaved), Ancient Woodland (Coniferous), Ancient Woodland (Mixed), Ancient Woodland (Replanted), Ancient Woodland, Barracks, Battlefield, Blanket Bog, Bog, Brickearth Pit, Canal, Carr, Carr, Castle, Castle, Cathedral, Cemetery, Chapel, Church, City, Clay Extraction Site, Clay Pit, Coastal And Intertidal, Coastal Wetland, Coastal Wetland, Copper Mine, Country Sport, Croft, Deer Park, Dunes, Dwelling, Enclosure Of Parkland, Extractive Industry, Farmstead, Field System, Fishing, Flash, Flood And Erosion Defence, Foreshore, Fortification, Freshwater Body, Funerary, Garden, Grassland, Groynes, Harbour, Health, Heathland, Hillfort, Hillfort, Historic Urban Core, Hospital, House, Infields, Inland Waterway, Isolated Dwelling, Isolated Farm, Lagoon, Lagoon, Lake, Managed Heritage Asset, Manor Farm, Manufacturing Industry, Market Place, Market, Marsh, Marsh, Marsh, Meadow, Mere, Military Residence, Mill Water System, Mill, Mine, Moorland, Moorland, Moorland, Mountain, Mudflat, Mudflat, Nucleated Settlement, Outfields, Palace, Palaeochannel, Palaeolandscape Component, Park, Peat Deposit, Peat Deposit, Peatland, Place Of Worship, Pond, Port And Dock Installation, Port, Processing Industry, Quarry, Raised Bog, Reclaimed Land, Religion, Residential Area, River, Road, Roman Fort, Roman Fort, Rough Ground, Royal Forest, Saltmarsh, Saltmarsh, Sandflats, Sea Defence, Shoals And Flats, Smallholding, Smallholding, Stone Quarry, Storage And Handling, Submerged Forest, Town Wall, Town, Upland, Valley Bog, Warehousing, Waste Disposal, Water Meadow, Water Transport, Watercourse, Wetland, Wood Pasture, Woodland (Broadleaved), Woodland (Coniferous), Woodland (Mixed)
+
 **Extent, spatial:** Argentina, Austria, Belgium, Bermuda, Canada, Canary Islands, Channel Islands, Chile, China, Croatia, Czech Republic, Denmark, Egypt, England, Faroe Islands, Finland, France, Germany, Greece, Greenland, Hungary, Iceland, Iran, Iraq, Ireland, Israel, Italy, Japan, Latvia, Morocco, Netherlands, Norway, Oman, Peru, Poland, Russia, Scotland, Slovakia, Slovenia, Spain, Sudan, Sweden, Switzerland, Turkey, Ukraine, USA, Wales
 
 **Extent, temporal:** 5,334,950 BCE-2,000 CE
@@ -27,7 +31,7 @@
 
 **Field List:**
 | Field Name	| Field Type	| Field Title	| Field Description	|
-|:----|:--------------------|:--------------------:|:--------------------:|:--------------------|
+|:----|:--------------------|:--------------------:|:--------------------|
 |sead_id| number | Sead Id| The unique SEAD identification number|
 |sead_country| string| Sead Country | The country in which the sample(s) were taken|
 |sead_sampledata_site_id| number | Sead Sampledata Site Id| The unique number assigned to a particular collection site in the SEAD database. For online site landing page prefix this number with https://browser.sead.se/site/ |

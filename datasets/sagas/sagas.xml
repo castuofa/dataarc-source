@@ -4,10 +4,39 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+
 <dc:title>Icelandic Saga Map</dc:title>
 <dc:creator>Emily Lethbridge</dc:creator>
 <dc:description>The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.</dc:description>
-<dcterms:abstract>The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.</dcterms:abstract>
+<dc:publisher>University of Iceland</dc:publisher>
+<dc:contributor>Trausti Dagsson</dc:contributor>
+<dc:contributor>Pétur Húni Björnsson</dc:contributor>
+<dc:contributor>Logi Ragnarsson</dc:contributor>
+<dc:contributor>Zachary Melton</dc:contributor>
+<dc:contributor>Gísli Pálsson</dc:contributor>
+<dc:contributor>Hjördís Erna Sigurðardóttir</dc:contributor>
+<dc:contributor>Nikola Machackova</dc:contributor>
+<dcterms:created>2015</dcterms:created>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>JSON</dc:format>
+<dc:language>English</dc:language>
+<dc:language>Icelandic</dc:language>
+<dc:subject name="FISH Event Thesaurus" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Documentary research</dc:subject>
+<dc:subject name="FISH Event Thesaurus" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Dowsing Survey</dc:subject>
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:spatial>Norway</dcterms:spatial>
+<dcterms:spatial>Denmark</dcterms:spatial>
+<dcterms:spatial>Sweden</dcterms:spatial>
+<dcterms:spatial>Greenland</dcterms:spatial>
+<dcterms:spatial>Faroe Islands</dcterms:spatial>
+<dcterms:spatial>United Kingdom</dcterms:spatial>
+<dcterms:spatial>North America</dcterms:spatial>
+<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,017 CE (with focus on 750 CE - 1250 CE) </dcterms:temporal>
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC BY-NC</dcterms:license>
+
+<!-- Field level metadata  -->
 
 <dcterms:hasPart name="sagas_id" type="number">
  <title>Sagas ID</title>
@@ -89,32 +118,5 @@ xmlns:dcterms="http://purl.org/dc/terms/">
  <description>URL to the online manuscript catalog with digital images and additional information</description>
 </dcterms:hasPart>	
 
-
-
-<dc:publisher>University of Iceland</dc:publisher>
-<dc:contributor>Trausti Dagsson</dc:contributor>
-<dc:contributor>Pétur Húni Björnsson</dc:contributor>
-<dc:contributor>Logi Ragnarsson</dc:contributor>
-<dc:contributor>Zachary Melton</dc:contributor>
-<dc:contributor>Gísli Pálsson</dc:contributor>
-<dc:contributor>Hjördís Erna Sigurðardóttir</dc:contributor>
-<dc:contributor>Nikola Machackova</dc:contributor>
-<dcterms:created>2015</dcterms:created>
-<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
-<dc:format>JSON</dc:format>
-<dc:language>English</dc:language>
-<dc:language>Icelandic</dc:language>
-<dc:subject name="FISH Event Thesaurus" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Documentary research</dc:subject>
-<dc:subject name="FISH Event Thesaurus" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Dowsing Survey</dc:subject>
-<dcterms:spatial>Iceland</dcterms:spatial>
-<dcterms:spatial>Norway</dcterms:spatial>
-<dcterms:spatial>Denmark</dcterms:spatial>
-<dcterms:spatial>Sweden</dcterms:spatial>
-<dcterms:spatial>Greenland</dcterms:spatial>
-<dcterms:spatial>Faroe Islands</dcterms:spatial>
-<dcterms:spatial>United Kingdom</dcterms:spatial>
-<dcterms:spatial>North America</dcterms:spatial>
-<dcterms:temporal xsi:type="dcterms:W3CTDF">750 CE - 2,017 CE (with focus on 750 CE - 1250 CE) </dcterms:temporal>
-<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC BY-NC</dcterms:license>
 
 </metadata>

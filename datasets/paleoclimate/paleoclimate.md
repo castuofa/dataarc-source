@@ -1,9 +1,7 @@
 ﻿# Climate Iceland
 **Creator:** Willem Koster
 
-**Description:** The Climate Iceland is dataset is a collection of data from climate studies in the North Atlantic. Temperature reconstructions or ice sheet reconstructions are present. This database does not hold any data, rather, it contains important information about the studies and links to the actual data
-
-**Abstract:** The Climate Iceland is dataset is a collection of data from climate studies in the North Atlantic. Temperature reconstructions or ice sheet reconstructions are present
+**Description:** The Climate Iceland is dataset is a collection of data from climate studies in the North Atlantic. Temperature reconstructions or ice sheet reconstructions are present. This database does not hold any data, rather, it contains important information about the studies and links to the actual data.
 
 **Publisher:** Willem Koster
 
@@ -13,11 +11,17 @@
 
 **DCMI Type:** dataset
 
-**Format:** CSV, TXT
+**Format:** CSV, TXT, JSON
 
 **Language(s):** English
 
 **Relation:** Refer to Database_link1 field
+
+**Subject(s):** ([FISH Vocabularies](http://www.heritage-standards.org.uk/fish-vocabularies/)) - 
+[Archaeological Objects](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf): Tephra;
+[Archaeological Sciences](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf): Radiocarbon Dating, Tephrochronology, Specialist Sampling, Foraminifera Analysis, Diatom Analysis;
+[Events](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf):  Tephra, Core sampling;
+[Historic Characterization](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf): N/A
 
 **Extent, spatial:** Iceland, Greenland, Faroe Islands
 
@@ -27,7 +31,7 @@
 
 **Field List:**
 | Field Name	| Field Type	| Field Title	| Field Description	|
-|:----|:--------------------|:--------------------:|:--------------------:|:--------------------|
+|:----|:--------------------|:--------------------:|:--------------------|
 |objectid| number| Objectid| Unique identifier|
 |elev| elev| Elev| Elevation (in case of terrestrial cores), or ocean water depth (in case of marine cores)|
 |site_name| string| Site Name| Name of the site the core was taken as registered in the metadata associated with the study|
