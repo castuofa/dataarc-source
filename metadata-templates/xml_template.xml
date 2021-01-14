@@ -13,7 +13,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:creator>Creator 1 Sample</dc:creator>
 <dc:creator>Creator 2 Sample</dc:creator>
 
-<dc:description>Long Description goes here<dcterms:abstract>
+<dc:description>Long Description goes here</dc:description>
 
 <dc:publisher>Publisher goes here</dc:publisher>
 

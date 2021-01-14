@@ -4,10 +4,36 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+
 <dc:title>Northwest Icelandic Cairns</dc:title>
 <dc:creator>Mar Roige Oliver</dc:creator>
 <dc:description>The Cairn Dataset identifies and maps possible navigational cairns in the Westfjords of Iceland. A cairn is a pile of rocks set up as a marker, monument, or memorial typical in the North Atlantic. This dataset gathers all possible cairn features identified from monochromatic aerial imagery (Imagery dates: 2017 and 2018). Only the cairns that are between one and three meters in width were mapped as it was assumed that bigger cairns are not marking the road but serving as markers for bigger structures such as medival assembly points. To avoid and reduce the incorrect marking of non-cairn features, all mapped cairns were given a number from one to five depending on their likelihood of them being a cairn with one being the least likely and five the most.</dc:description>
-<dcterms:abstract>The Cairn Dataset identifies and maps possible navigational cairns in the Westfjords of Iceland. A cairn is a pile of rocks set up as a marker, monument, or memorial typical in the North Atlantic.<dcterms:abstract>
+<dc:publisher>University of Glasgow</dc:publisher>
+<dc:contributor></dc:contributor>
+<dcterms:created> name="The DigitalGlobe Foundation"</dcterms:created>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>CSV</dc:format>
+<dc:language>English, some Icelandic</dc:language>
+<dc:relation name="DigitalGlobe" uri=" https://discover.digitalglobe.com/">Given imagery for free with citation to Digital Globe.</dc:relation>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Boundary marker</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Navigational marker</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Commemorative stone</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Human aspects</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Aerial Photography</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Aerial Photograph Interpretation</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Aerial Reconnaissance</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Conventional Aerial Photography</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Road Transport</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Coastal and Intertidal</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Cliff</dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Mountain</dc:subject>
+<dcterms:spatial>Iceland</dcterms:spatial>
+<dcterms:temporal xsi:type="dcterms:W3CTDF">1,050 - 2,017 CE</dcterms:temporal>
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
+
+<!-- Field level metadata  -->
 
 <dcterms:hasPart name="cairns_nw_iceland_objectid" type="number">
  <title>Cairns Nw Iceland Objectid</title>
@@ -35,27 +61,5 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 </dcterms:hasPart>	
 
 
-<dc:publisher>University of Glasgow</dc:publisher>
-<dc:contributor></dc:contributor>
-<dcterms:created> name="The DigitalGlobe Foundation"</dcterms:created>
-<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
-<dc:format>CSV</dc:format>
-<dc:language>English, some Icelandic</dc:language>
-<dc:relation name="DigitalGlobe" uri=" https://discover.digitalglobe.com/"></dc:relation>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Boundary marker</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Navigational marker</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Commemorative stone</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Human aspects</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Aerial Photography</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Aerial Photograph Interpretation</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Aerial Reconnaissance</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">Conventional Aerial Photography</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Road Transport</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Coastal and Intertidal</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Cliff</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Mountain</dc:subject>
-<dcterms:spatial>Iceland</dcterms:spatial>
-<dcterms:temporal xsi:type="dcterms:W3CTDF">1,050 - 2,017 CE</dcterms:temporal>
-<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
 
 </metadata>

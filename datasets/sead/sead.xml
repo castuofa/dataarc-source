@@ -4,184 +4,19 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+
 <dc:title>Strategic Environmental Archaeology Database (SEAD)</dc:title>
 <dc:creator>Philip Buckland</dc:creator>
 <dc:description>The Strategic Environmental Archaeology Database (SEAD) is a database of proxy evidence for past environments, climates and human activities. It makes data available from archaeological and geological excavations, and includes a range of fossil types as chemical and physical measurements from similar contexts. This feed to DataARC includes the environmental interpretation of fossil insect finds. Rather than presenting the raw data (in terms of numbers of individuals of the species found fossil), the dataset provides the meaning of the data in terms of the habitats which supported the species. In this way, the data can be more easily mapped to other data sources through common terms. The dataset includes the entire European fossil insect record, and stretches back to at least the last million years. Most of the data are, however, from the last few millennia.</dc:description>
-<dcterms:abstract>The Strategic Environmental Archaeology Database, fossil insect dataset includes environmental interpretations primarily from the European fossil insect record. The dataset covers approximately the last million years, but mainly last few millennia.<dcterms:abstract>
-
-<dcterms:hasPart name="sead_id" type="number">
- <title>Sead Id</title>
- <description>The unique SEAD identification number</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_country" type="string">
- <title>Sead Country</title>
- <description>The country in which the sample(s) were taken</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_site_id" type="number">
- <title>Sead Sampledata Site Id</title>
- <description>The unique number assigned to a particular collection site in the SEAD database. For online site landing page prefix this number with https://browser.sead.se/site/</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_site_name" type="string">
- <title>Sead Sampledata Site Name</title>
- <description>Name for the collection site based on geographic place names or other name used for identifying its location</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_sample_name" type="string">
- <title>Sead Sampledata Sample Name</title>
- <description>Name of the soil sample from which the data are derived, e.g. S2 for Sample 2</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_sample_group_id" type="number">
- <title>Sead Sampledata Sample Group Id</title>
- <description>Identification number for the sample group</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_dating_type" type="string">
- <title>Sead Sampledata Dating Type</title>
- <description>Broad dating method type used to date sample</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_age_name" type="string">
- <title>Sead Sampledata Age Name</title>
- <description>Geological or archaeological/cultural time period</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_age_abbreviation" type="string">
- <title>Sead Sampledata Age Abbreviation</title>
- <description>Abbreviation of the geological or archaeological/cultural time period</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_aquatics" type="number">
- <title>Sead Indicators Aquatics</title>
- <description>Insects living in/on water, in any form. From temporary pools to lakes and rivers.</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_indicators_standing_water" type="number">
- <title>Sead Indicators Indicators Standing Water</title>
- <description>Insects with primary habitat in/on pools, ponds, slow flowing water – including temporary ponds, but not species specifically in vegetation and mud or banks of ponds</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_indicators_running_water" type="number">
- <title>Sead Indicators Indicators Running Water</title>
- <description>Insects predominantly found in rivers and/or streams</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_pasture_dung" type="number">
- <title>Sead Indicators Pasture Dung</title>
- <description>Insects indicating grazed land of varying form. Includes most dung beetles, including those that are not dependent on dung. Mostly open landscape, but may include pasture-woodland when in combination with woodland indicators</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_meadowland" type="number">
- <title>Sead Indicators Meadowland</title>
- <description>Insects indicating natural grassland or near equivalents. Open landscape</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_wood_and_trees" type="number">
- <title>Sead Indicators Wood And Trees</title>
- <description>Insect species tied to either the actual wood, trees or the forest/woodland environment. Generally shade tolerant</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_indicators_deciduous" type="number">
- <title>Sead Indicators Indicators Deciduous</title>
- <description>Insects tied specifically to deciduous wood or woodland, species not found on coniferous wood except on rare occasions</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_indicators_coniferous" type="number">
- <title>Sead Indicators Indicators Coniferous</title>
- <description>Insects tied specifically to coniferous wood or woodland, species not found on deciduous wood except on rare occasions.</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_wetlands_marshes" type="number">
- <title>Sead Indicators Wetlands Marshes</title>
- <description>Insects which are water tolerant but not living specifically in the water. May include mud and bank species, as well as those moss & reed dwellers that prefer permanently wet environments</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_open_wet_habitats" type="number">
- <title>Sead Indicators Open Wet Habitats</title>
- <description>Insects with a preference for open, wet environments such as shingle, beaches etc. and other exposed wet environments</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_disturbed_arable" type="number">
- <title>Sead Indicators Disturbed Arable</title>
- <description>Insects with a preference for any disturbed ground surface, be it disturbed by animal, geological or human action. Includes ploughed fields, edges of watering holes, farm yards, glacial margins etc.</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_sandy_dry_disturbed_arable" type="number">
- <title>Sead Indicators Sandy Dry Disturbed Arable</title>
- <description>Insects with a preference for dry, disturbed environments. Typifies beach, dune and aeolian landscapes, or ploughed fields on more sandy soils. A more dominant environment in southern Europe than described by the Disturbed/arable indicator class</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_dung_foul_habitats" type="number">
- <title>Sead Indicators Dung Foul Habitats</title>
- <description>A wide category for insect species that live in decaying, muddy and fetid environments, including compost, wet hay, dung and muddy edges of water</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_carrion" type="number">
- <title>Sead Indicators Carrion</title>
- <description>Insect indicators of animal carcasses of all forms, dry or wet. Generally forensically important species.r</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_indicators_dung" type="number">
- <title>Sead Indicators Indicators Dung</title>
- <description>Insects with primary habitat in dung, or dung essential for reproduction. Includes parasites of other species that live in dung. Majority of species not found in other environments represented by the broader dung/foul class, but some may be found on occasions outside of dung</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_mould_beetles" type="number">
- <title>Sead Indicators Mould Beetles</title>
- <description>Insects associated with mold and decay, a large part of the typical indoor fauna associated with humans in northern Europe</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_general_synanthropic" type="number">
- <title>Sead Indicators General Synanthropic</title>
- <description>Insects found in association with humans, either when outside of their ‘natural’ geographical range, or in all known records. This term may be geographically specific, and is used in a north European context here</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_stored_grain_pest" type="number">
- <title>Sead Indicators Stored Grain Pest</title>
- <description>Pests of stored products, including grain, beans, sweetcorn etc. but also sometimes furs, meat and other animal material</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_dry_dead_wood" type="number">
- <title>Sead Indicators Dry Dead Wood</title>
- <description>Insects associated with wood in constructions, but also similar natural environments such as large fallen trees, especially in warmer climates</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_heathland_and_moorland" type="number">
- <title>Sead Indicators Heathland And Moorland</title>
- <description>Insects populating heathland and moorland, but may also indicate the under-story of a Boreal forest, which sometimes has similar vegetation</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_halotolerant" type="number">
- <title>Sead Indicators Halotolerant</title>
- <description>Salt tolerant insects, often tied to coastal or salt marsh land, but not just NaCl (table salt) – can be species found on mineral rich ploughed soils or where mineral precipitation is prominent</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_indicators_ectoparasite" type="number">
- <title>Sead Indicators Ectoparasite</title>
- <description>External parasites of humans and animals (includes many arthopods outside of the insect order)</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_start" type="number">
- <title>Sead Sampledata Start</title>
- <description>Oldest probable age of sample in years before AD1950 (BP)</description>
-</dcterms:hasPart>
-
-<dcterms:hasPart name="sead_sampledata_end" type="number">
- <title>Sead Sampledata End</title>
- <description>Youngest probable age of sample in years before AD1950 (BP)</description>
-</dcterms:hasPart>
-
-
 <dc:publisher>Umeå University, Sweden</dc:publisher>
 <dc:contributor>See original database for list of contributors - over 1400 publications https://www.sead.se/</dc:contributor>
 <dcterms:created>2008</dcterms:created>
 <dc:type xsi:type="dcterms:DCMIType">collection</dc:type>
 <dc:format>JSON</dc:format>
 <dc:language>English</dc:language>
-<dc:relation>Buckland, P.I. & Buckland, P.C. (2006). BugsCEP Coleopteran Ecology Package. IGBP PAGES/World Data Center for Paleoclimatology Data Contribution Series # 2006-116. NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. URL:http://www.ncdc.noaa.gov/paleo/insect.html or http://www.bugscep.com</dc:relation>
+<dc:relation>Buckland, P.I. and Buckland, P.C. (2006). BugsCEP Coleopteran Ecology Package. IGBP PAGES/World Data Center for Paleoclimatology Data Contribution Series # 2006-116. NOAA/NCDC Paleoclimatology Program, Boulder CO, USA. URL:http://www.ncdc.noaa.gov/paleo/insect.html or http://www.bugscep.com</dc:relation>
 <dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Insect Remains</dc:subject>
 <dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">Parasite Remains</dc:subject>
 <dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">Palaeoentomology</dc:subject>
@@ -261,7 +96,7 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Clay Extraction Site</dc:subject>
 <dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Clay Pit</dc:subject>
 <dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Coastal And Intertidal</dc:subject>
-<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Coastal Wetland<dc:subject>
+<dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Coastal Wetland</dc:subject>
 <dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Copper Mine</dc:subject>
 <dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Country Sport</dc:subject>
 <dc:subject name="FISH Thesaurus - Historic Characterization" uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf">Croft</dc:subject>
@@ -403,5 +238,172 @@ xmlns:dcterms="http://purl.org/dc/terms/">
 <dcterms:spatial>Wales</dcterms:spatial>
 <dcterms:temporal xsi:type="dcterms:W3CTDF">5,334,950 BCE - 2,000 CE</dcterms:temporal>
 <dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
+
+<!-- Field level metadata  -->
+
+<dcterms:hasPart name="sead_id" type="number">
+ <title>Sead Id</title>
+ <description>The unique SEAD identification number</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_country" type="string">
+ <title>Sead Country</title>
+ <description>The country in which the sample(s) were taken</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_site_id" type="number">
+ <title>Sead Sampledata Site Id</title>
+ <description>The unique number assigned to a particular collection site in the SEAD database. For online site landing page prefix this number with https://browser.sead.se/site/</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_site_name" type="string">
+ <title>Sead Sampledata Site Name</title>
+ <description>Name for the collection site based on geographic place names or other name used for identifying its location</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_sample_name" type="string">
+ <title>Sead Sampledata Sample Name</title>
+ <description>Name of the soil sample from which the data are derived, e.g. S2 for Sample 2</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_sample_group_id" type="number">
+ <title>Sead Sampledata Sample Group Id</title>
+ <description>Identification number for the sample group</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_dating_type" type="string">
+ <title>Sead Sampledata Dating Type</title>
+ <description>Broad dating method type used to date sample</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_age_name" type="string">
+ <title>Sead Sampledata Age Name</title>
+ <description>Geological or archaeological/cultural time period</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_age_abbreviation" type="string">
+ <title>Sead Sampledata Age Abbreviation</title>
+ <description>Abbreviation of the geological or archaeological/cultural time period</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_aquatics" type="number">
+ <title>Sead Indicators Aquatics</title>
+ <description>Insects living in/on water, in any form. From temporary pools to lakes and rivers.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_indicators_standing_water" type="number">
+ <title>Sead Indicators Indicators Standing Water</title>
+ <description>Insects with primary habitat in/on pools, ponds, slow flowing water – including temporary ponds, but not species specifically in vegetation and mud or banks of ponds</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_indicators_running_water" type="number">
+ <title>Sead Indicators Indicators Running Water</title>
+ <description>Insects predominantly found in rivers and/or streams</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_pasture_dung" type="number">
+ <title>Sead Indicators Pasture Dung</title>
+ <description>Insects indicating grazed land of varying form. Includes most dung beetles, including those that are not dependent on dung. Mostly open landscape, but may include pasture-woodland when in combination with woodland indicators</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_meadowland" type="number">
+ <title>Sead Indicators Meadowland</title>
+ <description>Insects indicating natural grassland or near equivalents. Open landscape</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_wood_and_trees" type="number">
+ <title>Sead Indicators Wood And Trees</title>
+ <description>Insect species tied to either the actual wood, trees or the forest/woodland environment. Generally shade tolerant</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_indicators_deciduous" type="number">
+ <title>Sead Indicators Indicators Deciduous</title>
+ <description>Insects tied specifically to deciduous wood or woodland, species not found on coniferous wood except on rare occasions</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_indicators_coniferous" type="number">
+ <title>Sead Indicators Indicators Coniferous</title>
+ <description>Insects tied specifically to coniferous wood or woodland, species not found on deciduous wood except on rare occasions.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_wetlands_marshes" type="number">
+ <title>Sead Indicators Wetlands Marshes</title>
+ <description>Insects which are water tolerant but not living specifically in the water. May include mud and bank species, as well as those moss and reed dwellers that prefer permanently wet environments</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_open_wet_habitats" type="number">
+ <title>Sead Indicators Open Wet Habitats</title>
+ <description>Insects with a preference for open, wet environments such as shingle, beaches etc. and other exposed wet environments</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_disturbed_arable" type="number">
+ <title>Sead Indicators Disturbed Arable</title>
+ <description>Insects with a preference for any disturbed ground surface, be it disturbed by animal, geological or human action. Includes ploughed fields, edges of watering holes, farm yards, glacial margins etc.</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_sandy_dry_disturbed_arable" type="number">
+ <title>Sead Indicators Sandy Dry Disturbed Arable</title>
+ <description>Insects with a preference for dry, disturbed environments. Typifies beach, dune and aeolian landscapes, or ploughed fields on more sandy soils. A more dominant environment in southern Europe than described by the Disturbed/arable indicator class</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_dung_foul_habitats" type="number">
+ <title>Sead Indicators Dung Foul Habitats</title>
+ <description>A wide category for insect species that live in decaying, muddy and fetid environments, including compost, wet hay, dung and muddy edges of water</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_carrion" type="number">
+ <title>Sead Indicators Carrion</title>
+ <description>Insect indicators of animal carcasses of all forms, dry or wet. Generally forensically important species.r</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_indicators_dung" type="number">
+ <title>Sead Indicators Indicators Dung</title>
+ <description>Insects with primary habitat in dung, or dung essential for reproduction. Includes parasites of other species that live in dung. Majority of species not found in other environments represented by the broader dung/foul class, but some may be found on occasions outside of dung</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_mould_beetles" type="number">
+ <title>Sead Indicators Mould Beetles</title>
+ <description>Insects associated with mold and decay, a large part of the typical indoor fauna associated with humans in northern Europe</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_general_synanthropic" type="number">
+ <title>Sead Indicators General Synanthropic</title>
+ <description>Insects found in association with humans, either when outside of their ‘natural’ geographical range, or in all known records. This term may be geographically specific, and is used in a north European context here</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_stored_grain_pest" type="number">
+ <title>Sead Indicators Stored Grain Pest</title>
+ <description>Pests of stored products, including grain, beans, sweetcorn etc. but also sometimes furs, meat and other animal material</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_dry_dead_wood" type="number">
+ <title>Sead Indicators Dry Dead Wood</title>
+ <description>Insects associated with wood in constructions, but also similar natural environments such as large fallen trees, especially in warmer climates</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_heathland_and_moorland" type="number">
+ <title>Sead Indicators Heathland And Moorland</title>
+ <description>Insects populating heathland and moorland, but may also indicate the under-story of a Boreal forest, which sometimes has similar vegetation</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_halotolerant" type="number">
+ <title>Sead Indicators Halotolerant</title>
+ <description>Salt tolerant insects, often tied to coastal or salt marsh land, but not just NaCl (table salt) – can be species found on mineral rich ploughed soils or where mineral precipitation is prominent</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_indicators_ectoparasite" type="number">
+ <title>Sead Indicators Ectoparasite</title>
+ <description>External parasites of humans and animals (includes many arthopods outside of the insect order)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_start" type="number">
+ <title>Sead Sampledata Start</title>
+ <description>Oldest probable age of sample in years before AD1950 (BP)</description>
+</dcterms:hasPart>
+
+<dcterms:hasPart name="sead_sampledata_end" type="number">
+ <title>Sead Sampledata End</title>
+ <description>Youngest probable age of sample in years before AD1950 (BP)</description>
+</dcterms:hasPart>
 
 </metadata>

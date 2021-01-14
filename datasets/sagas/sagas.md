@@ -3,8 +3,6 @@
 
 **Description:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside. Other data pertains to medieval and post-medieval parchment and paper manuscripts of the geo-referenced saga texts, and to Icelandic travel books.
 
-**Abstract:** The Icelandic Saga Map database contains geo-referenced texts in Icelandic and English, with specific emphasis on medieval Icelandic sagas. All geographical places mentioned in the texts are displayed on a map interface with the text alongside.
-
 **Publisher:** University of Iceland
 
 **Contributor(s):** Trausti Dagsson, Pétur Húni Björnsson, Logi Ragnarsson, Zachary Melton, Gísli Pálsson, Hjördís Erna Sigurðardóttir, Nikola Machackova
@@ -17,7 +15,13 @@
 
 **Language(s):** English, Icelandic
 
-**Relation:** Documentary research: http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf
+**Relation:** 
+
+**Subject(s):** ([FISH Vocabularies](http://www.heritage-standards.org.uk/fish-vocabularies/)) - 
+[Archaeological Objects](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf): N/A
+[Archaeological Sciences](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf): N/A
+[Events](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf):  Documentary research
+[Historic Characterization](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf): N/A
 
 **Extent, spatial:** Iceland, Norway, Denmark, Sweden, Greenland, Faroe Islands, United Kingdom, North America
 
@@ -31,7 +35,7 @@
 ||sagas_id | number | Sagas ID | The unique saga identification number assigned in the Icelandic Saga Map (ISM) |
 ||sagas_name | string | Sagas Name | Title of the written work (e.g. Laxdæla saga) |
 |x|sagas_sagaid | number | Sagas Sagaid | The unique saga identification number assigned in the Icelandic Saga Map (ISM) |
-|x|sagas_saganmae | string | Sagas Saganame | Title of the written work (e.g. Laxdæla saga) |
+|x|sagas_saganame | string | Sagas Saganame | Title of the written work (e.g. Laxdæla saga) |
 | |sagas_type | string | Sagas Type (Place Type) | This is Place Type and the field should be renamed as such. Type of physical place, whether natural or manmade (e.g. farm, valley, harbor, etc.)|
 | | sagas_chapter | string | Sagas Chapter | Number of chapter within saga. (e.g. 1 kafli (Chapter 1)) |
 | | sagas_chapternr | number | Sagas Chapter Number | Chapter number (number only) |
