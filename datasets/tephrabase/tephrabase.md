@@ -3,8 +3,6 @@
 
 **Description:** Tephrabase contains details of tephra layers at over 1000 sites in Europe and over 400 of these are in Iceland. The Icelandic tephra layers range from the early Holocene period to the most recent eruptions. Many of the tephra layers erupted since the settlement of Iceland in the 9th century have been precisely dated from ice core dating and using historical sources. This has produced an unparalleled chronology which can be used date archaeological sites and palaeoenvironmental records, enabling correlations between the two and rates of environmental change to be studied.
 
-**Abstract:** Tephrabase is a database of volcanic ash (tephra) layers and includes data from across Europe, including over 400 Icelandic sites. Tephra layers can be used to date and correlate archaeological and environmental records in Iceland from before Landnám to modern times.
-
 **Publisher:** University of Edinburgh
 
 **Contributor(s):** 
@@ -19,6 +17,12 @@
 
 **Relation:** 
 
+**Subject(s):** ([FISH Vocabularies](http://www.heritage-standards.org.uk/fish-vocabularies/)) - 
+[Archaeological Objects](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf): Tephra
+[Archaeological Sciences](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf): Tephrochronology, Palaeoenvironmental Analysis, Stratigraphic Description;
+[Events](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf):  Test Pit, Environmental Sampling, Geomorphological Survey;
+[Historic Characterization](http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/HistoricCharacter_class.pdf): Palaeolandscape Component, Peat Deposit
+
 **Extent, spatial:** Iceland
 
 **Extent, temporal:** 750-2011 CE
@@ -27,7 +31,7 @@
 
 **Field List:**
 | Field Name	| Field Type	| Field Title	| Field Description	|
-|:----|:--------------------|:--------------------:|:--------------------:|:--------------------|
+|:----|:--------------------|:--------------------:|:--------------------|
 |teph_sitenumber | number | Teph Sitenumber | Unique Tephrabase number given to each site |
 |teph_sitename| string | Teph Sitename | Name of site |
 |teph_profilenumber | number | Teph Profilenumber| Unique Tephrabase number given to each profile at each site (usually just one per site) |

@@ -4,10 +4,51 @@
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 xmlns:dc="http://purl.org/dc/elements/1.1/"
 xmlns:dcterms="http://purl.org/dc/terms/">
+
+<!-- Project metadata  -->
+
 <dc:title>Whales dataset</dc:title>
 <dc:creator>Vicki Szabo</dc:creator>
 <dc:description>This dataset includes some artifacts sampled as part of a larger NSF project #1503714, "Assessing the Distribution and Variability of Marine Mammals through Archaeology, Ancient DNA, and History in the North Atlantic." The NSF project has sampled whale bone from archaeological contexts from Orkney, Iceland, the Faroes, Greenland, and Newfoundland. Objects from several sites in Bronze Age, Iron Age, and Viking Age Orkney, included in the present data set, were sampled for both genetic and molecular identification. The larger project also includes historical, ethnographic, literary, and biological data in reconstructing whale use and whale populations across the premodern North Atlantic.</dc:description>
-<dcterms:abstract>The Whales Project data includes artifacts sampled from Bronze Age through Viking Age Orkney. The data set includes artifact descriptions, bone descriptions, and aDNA (ancient DNA) and ZooMS (Zooarchaeology by Mass Spectrometry) data.<dcterms:abstract>
+<dc:publisher>National Snow and Ice Data Center</dc:publisher>
+<dc:contributor> Brenna McLeod Frasier</dc:contributor>
+<dc:contributor>Ingrid Mainland</dc:contributor>
+<dc:contributor>Claire MacKay</dc:contributor>
+<dc:contributor>Michael Buckley</dc:contributor>
+<dcterms:created>11/30/2015</dcterms:created>
+<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
+<dc:format>Excel,JSON</dc:format>
+<dc:language>English</dc:language>
+<dc:relation></dc:relation>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">mount</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">perforated disc</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">perforated object</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">worked object</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">carved object</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">unidentified object</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">disc</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">blank</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">waste</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">bone working debris</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">vessel</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">mammal remains	</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">human aspects</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">manufacturing debris</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">worked</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">carved</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">tool marked</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">ancient biomolecular analysis</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">zooarchaeology</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">bone</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">burnt</dc:subject>
+<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">stratigraphic dataescription</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">post excavation assessment</dc:subject>
+<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf"> thematic survey</dc:subject>
+<dcterms:spatial>Scotland</dcterms:spatial>
+<dcterms:temporal xsi:type="dcterms:W3CTDF">850 BCE - 1,800 CE</dcterms:temporal>
+<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
+
+<!-- Field level metadata  -->
 
 <dcterms:hasPart name="test_whale_artefacts_id_number" type="string">
  <title>Test Whale Artefacts Id Number</title>
@@ -133,44 +174,5 @@ xmlns:dcterms="http://purl.org/dc/terms/">
  <title>Test Whale Artefacts Phase</title>
  <description>Subset of chronology</description>
 </dcterms:hasPart>
-
-
-<dc:publisher>National Snow and Ice Data Center</dc:publisher>
-<dc:contributor> Brenna McLeod Frasier</dc:contributor>
-<dc:contributor>Ingrid Mainland</dc:contributor>
-<dc:contributor>Claire MacKay</dc:contributor>
-<dc:contributor>Michael Buckley</dc:contributor>
-<dcterms:created>11/30/2015</dcterms:created>
-<dc:type xsi:type="dcterms:DCMIType">dataset</dc:type>
-<dc:format>Excel,JSON</dc:format>
-<dc:language>English</dc:language>
-<dc:relation></dc:relation>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">mount</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">perforated disc</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">perforated object</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">worked object</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">carved object</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">unidentified object</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">disc</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">blank</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">waste</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">bone working debris</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">vessel</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Objects " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ObjType_class.pdf">mammal remains	</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">human aspects</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">manufacturing debris</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">worked</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">carved</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">tool marked</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">ancient biomolecular analysis</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">zooarchaeology</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">bone</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">burnt</dc:subject>
-<dc:subject name="FISH Thesaurus - Archaeological Sciences " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/ArchSci_class.pdf">stratigraphic dataescription</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf">post excavation assessment</dc:subject>
-<dc:subject name="FISH Thesaurus - Events " uri=" http://www.heritage-standards.org.uk/wp-content/uploads/2020/02/Event_class.pdf"> thematic survey</dc:subject>
-<dcterms:spatial>Scotland</dcterms:spatial>
-<dcterms:temporal xsi:type="dcterms:W3CTDF">850 BCE - 1,800 CE</dcterms:temporal>
-<dcterms:license name="Creative Commons" uri="https://creativecommons.org/about/cclicenses/">CC-BY</dcterms:license>
 
 </metadata>
