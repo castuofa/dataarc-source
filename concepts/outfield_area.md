@@ -1,13 +1,15 @@
 ## Outfield Area
 
 ###  Scope note:
-A grazing area beyond the enclosed home field. "Outfield area" sually refers to areas still within farm boundaries and not upland grazing areas.
+A grazing area beyond the enclosed home field. "Outfield area" sually refers to areas still within farm boundaries and not upland grazing areas. See also "infield area".
 
 ### Examples:
 
-* The outfield/infield system is a ubiquitous division of land on Icelandic Medieval farmsteads.
+* The outfield/infield system is a ubiquitous division of land on medieval Icelandic farmsteads.
 
 ### References to discussions of CONCEPT:
+
+* Aldred, O. (2008). Unfamiliar Landscapes: Infields, Outfields, Boundaries and Landscapes in Iceland. In Recent Approaches to the Archaeology of Land Allotment, ed. Adrian M. Chadwick. British Archaeological Reports, International Series 1875. Oxford, UK. 299–321.
 
 * Kupiec, P., & Milek, K. (2014). Roles and perceptions of shielings and the mediation of gender identities in Viking and medieval Iceland. Viking Worlds: Things, Spaces and Movement, 102-123.
 
