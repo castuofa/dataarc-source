@@ -2,7 +2,7 @@
 
 ###  Scope note:
 
-A tax levied by the church on farms in Iceland. Revenue from the tithe was divided into four parts among the bishop, the local priest, the parish church and the poor.
+A tax levied by the church on farms in Iceland. Revenue from the tithe was divided into four parts among the bishop, the local priest, the parish church and the poor. The tithe was introduced to Iceland in 1097 when the Alþingi passed it into law, on the innovation of Bishop Gissur Isleifsson (1048-1118). 
 
 ### Examples:
 
@@ -12,7 +12,7 @@ A tax levied by the church on farms in Iceland. Revenue from the tithe was divid
 
 * Sigurdson, E. (2016). The Church in Fourteenth-Century Iceland: The Formation of an Elite Clerical Identity. Brill.
 
-* Vésteinsson, O. (1996). The Christianisation of Iceland: priests, power and social change 1000-1300 (Doctoral dissertation, University of London).
+* Vésteinsson, O. (2000). The Christianisation of Iceland: priests, power and social change 1000-1300. Oxford: Oxford University Press.
 
 ### CIDOC CRM mappings:
 
