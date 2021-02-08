@@ -6,10 +6,11 @@ An "infield area" is comprised of the improved land within the enclosure typical
 
 ### Examples:
 
-* The outfield/infield system is a ubiquitous division of land on Icelandic Medieval farmsteads.
+* The outfield/infield system is a ubiquitous division of land on medieval Icelandic farmsteads.
 
 
 ### References to discussions of CONCEPT:
+* Aldred, O. (2008). Unfamiliar landscapes: infields, outfields, boundaries and landscapes in Iceland. In Recent Approaches to the Archaeology of Land Allotment, ed. A. Chadwick. Oxford: Archaeopress and BAR.
 
 * Kupiec, P., & Milek, K. (2014). Roles and perceptions of shielings and the mediation of gender identities in Viking and medieval Iceland. Viking Worlds: Things, Spaces and Movement, 102-123.
 
