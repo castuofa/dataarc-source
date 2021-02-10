@@ -18,6 +18,8 @@ A measure of the agency that an ecclesiastical institution has over other entiti
 
 * Vésteinsson, O. (1996). The Christianisation of Iceland: priests, power and social change 1000-1300 (Doctoral dissertation, University of London).
 
+* Árni Daníel Júlíusson et al. (2019). Episcopal Economics: Property and Power in Post-Reformation Iceland. Scandinavian Journal of History 44(1): 95-120
+
 ### CIDOC CRM mappings: 
 
 * [E28](http://www.cidoc-crm.org/entity/e28-conceptual-object/version-6.2)
