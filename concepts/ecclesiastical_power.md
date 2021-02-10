@@ -16,7 +16,7 @@ A measure of the agency that an ecclesiastical institution has over other entiti
 
 * Sigurdson, E. (2016). The Church in Fourteenth-Century Iceland: The Formation of an Elite Clerical Identity. Brill.
 
-* Vésteinsson, O. (1996). The Christianisation of Iceland: priests, power and social change 1000-1300 (Doctoral dissertation, University of London).
+* Vésteinsson, O. (2000). The Christianisation of Iceland: priests, power and social change 1000-1300. Oxford: Oxford University Press.
 
 * Árni Daníel Júlíusson et al. (2019). Episcopal Economics: Property and Power in Post-Reformation Iceland. Scandinavian Journal of History 44(1): 95-120
 
