@@ -17,6 +17,8 @@ Naming is a process by which a proper name is attached to a place, person or thi
 
 * Barraclough, E. (2012). Naming the landscape in the Landnám narratives of the Íslendingasögur and Landnámabók. Saga-Book of the Viking Society 36:79-101.
 
+* Brink, S. (2008). Naming	 the	land.	In	The	Viking	World,	ed.	S.	Brink	and	N. Price.	Abingdon, Oxon and	New	York:	Routledge, 57-66.
+
 * Lethbridge, E. (2016). The Icelandic Sagas and Saga Landscapes. Writing, Reading and Retelling Íslendingasögur Narratives. Gripla 27:51-92. 
 
 * https://plato.stanford.edu/entries/names/
